@@ -1,0 +1,672 @@
+"","birth","exit","hospstay","lowph","pltct","race","bwt","gest","inout","twn","lol","magsulf","meth","toc","delivery","apg1","vent","pneumo","pda","cld","pvh","ivh","ipe","year","sex","dead"
+"1",81.5110016,81.6039963,34,NA,100,"white",1250,35,"born at Duke",0,NA,NA,0,0,"abdominal",8,0,0,0,0,NA,NA,NA,81.5119629,"female",0
+"2",81.5139999,81.5390015,9,7.25,244,"white",1370,32,"born at Duke",0,NA,NA,1,0,"abdominal",7,0,0,0,0,NA,NA,NA,81.5147095,"female",0
+"3",81.552002,81.552002,-2,7.05999756,114,"black",620,23,"born at Duke",0,NA,NA,0,1,"vaginal",1,1,0,0,NA,NA,NA,NA,81.5530396,"female",1
+"4",81.5579987,81.6669998,40,7.25,182,"black",1480,32,"born at Duke",0,NA,NA,1,0,"vaginal",8,0,0,0,0,NA,NA,NA,81.5584717,"male",0
+"5",81.5930023,81.598999,2,6.96999741,54,"black",925,28,"born at Duke",0,NA,NA,0,0,"abdominal",5,1,1,0,0,"definite","definite",NA,81.5940552,"female",1
+"6",81.6019974,81.7710037,62,7.18999863,NA,"white",940,28,"born at Duke",0,NA,NA,1,0,"abdominal",8,1,0,0,0,"absent","absent","absent",81.6022949,"female",0
+"7",81.6100006,81.6969986,32,7.31999969,282,"black",1255,29.5,"born at Duke",0,NA,NA,1,0,"vaginal",9,0,0,0,0,NA,NA,NA,81.6105347,"female",0
+"8",NA,NA,NA,NA,NA,NA,600,26,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"9",NA,NA,NA,NA,NA,NA,700,24,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"absent","absent","absent",NA,NA,1
+"10",81.6240005,81.6999969,28,7.15999985,153,"black",1350,34,"born at Duke",0,NA,NA,1,0,"abdominal",4,0,0,0,0,NA,NA,NA,81.6242065,"female",0
+"11",81.6259995,81.7300034,38,7.0399971,229,"white",1310,32,"born at Duke",0,NA,NA,0,0,"vaginal",6,1,0,0,0,NA,NA,NA,81.6269531,"male",0
+"12",NA,NA,NA,NA,NA,NA,550,24,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"13",81.6839981,81.8539963,62,7.17999649,182,"black",1110,28,"born at Duke",0,NA,NA,0,0,"vaginal",6,0,1,0,1,"absent","absent","absent",81.6844482,"male",0
+"14",81.689003,81.8779984,69,7.41999817,361,"white",1180,28,"born at Duke",0,NA,NA,0,0,"abdominal",6,0,0,0,0,"absent","absent","absent",81.6898804,"male",0
+"15",81.6949997,81.6969986,1,7.11999893,378,"white",970,28,"born at Duke",0,NA,NA,1,1,"vaginal",2,1,1,0,0,NA,NA,NA,81.6953735,"female",1
+"16",81.6969986,81.9520035,93,7.23999786,255,"black",770,26,"born at Duke",0,NA,NA,1,1,"vaginal",4,1,0,0,1,"absent","absent","absent",81.6981201,"male",0
+"17",81.7060013,81.8259964,44,7.12999725,186,"white",1490,33,"born at Duke",0,NA,NA,1,0,"abdominal",8,0,0,0,0,"possible","absent","absent",81.7063599,"male",0
+"18",81.7109985,81.8479996,50,7.26999664,NA,"black",1170,31,"born at Duke",1,NA,NA,1,0,"vaginal",7,0,0,0,0,NA,NA,NA,81.711792,"female",0
+"19",81.7109985,81.8919983,66,7.17999649,260,"black",1360,31,"born at Duke",1,NA,NA,1,0,"vaginal",1,1,1,0,0,"definite","absent","absent",81.711792,"male",0
+"20",81.7190018,81.8970032,65,7.06999969,183,"white",1330,31,"born at Duke",0,NA,NA,1,1,"vaginal",8,1,1,0,1,"definite","definite","absent",81.7200317,"male",0
+"21",81.7470016,81.8669968,44,7.2899971,134,"white",1000,28,"born at Duke",0,NA,NA,0,0,"vaginal",5,0,0,0,0,"absent","absent","absent",81.7473755,"female",0
+"22",81.7580032,81.9489975,70,7.12999725,229,"black",1120,29,"born at Duke",0,NA,NA,1,0,"vaginal",9,1,0,0,0,"absent","absent","absent",81.7583618,"female",0
+"23",81.7630005,81.9960022,85,7.18999863,68,"white",740,26,"born at Duke",0,NA,NA,0,0,"abdominal",9,0,0,0,0,"absent","absent","absent",81.763855,"female",0
+"24",NA,NA,NA,NA,NA,NA,NA,NA,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"absent","absent","absent",NA,NA,1
+"25",81.7770004,81.935997,58,7.36999893,174,"black",1100,29,"born at Duke",0,NA,NA,0,1,"vaginal",9,0,0,0,0,"absent","absent","absent",81.7775269,"female",0
+"26",NA,NA,NA,NA,NA,NA,NA,26,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"27",81.8259964,81.8259964,-2,6.93999863,261,"black",820,28,"born at Duke",1,NA,NA,0,0,"vaginal",6,1,1,0,0,"possible","absent","absent",81.8267822,"female",1
+"28",81.8339996,81.0459976,-288,7.30999756,257,"black",810,26,"born at Duke",0,NA,NA,0,0,"vaginal",2,0,0,0,1,"absent","absent","absent",81.835022,"female",0
+"29",81.8730011,81.9520035,29,7.2899971,170,"white",1300,31,"born at Duke",0,NA,NA,0,0,"abdominal",1,1,1,0,0,NA,NA,NA,81.8733521,"female",0
+"30",81.9629974,82.1520004,69,7.29999924,218,"black",1110,30,"born at Duke",1,NA,NA,0,1,"abdominal",6,0,0,0,0,"definite","absent","absent",81.9636841,"female",0
+"31",81.9660034,82.1709976,75,7.25,179,"black",970,29,"born at Duke",0,NA,NA,0,1,"abdominal",1,1,0,0,1,"absent","absent","absent",81.9664307,"female",0
+"32",81.9660034,81.1689987,-291,7.19999695,115,"black",760,29,"born at Duke",0,NA,NA,0,1,"abdominal",2,0,0,0,0,"absent","absent","absent",81.9664307,"female",0
+"33",NA,NA,NA,NA,NA,NA,560,24,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"34",NA,NA,NA,NA,NA,NA,540,24,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"35",81.9789963,82.0749969,35,7.33999634,270,"black",1440,30,"born at Duke",0,NA,NA,1,0,"abdominal",8,0,0,0,0,"absent","absent","absent",81.9801025,"male",0
+"36",81.987999,82.0810013,34,7.22999954,240,"black",1360,29,"born at Duke",0,NA,NA,1,0,"vaginal",4,0,0,0,0,"possible","absent","absent",81.9883423,"male",0
+"37",NA,NA,NA,NA,NA,NA,750,24,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"38",NA,NA,NA,NA,NA,NA,880,26,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"39",82.026001,82.2590027,85,NA,NA,"white",990,27,"born at Duke",1,NA,NA,1,1,"vaginal",5,0,0,0,0,"possible","absent","absent",82.0273438,"male",0
+"40",82.026001,82.2590027,85,7.29999924,350,"white",840,27,"born at Duke",1,NA,NA,1,1,"vaginal",2,0,0,0,0,"absent","absent","absent",82.0273438,"female",0
+"41",82.026001,82.1520004,46,7.31999969,250,"black",1420,30,"born at Duke",0,NA,NA,0,0,"vaginal",6,0,0,0,0,"possible","absent","absent",82.0273438,"female",0
+"42",82.0530014,82.5130005,168,7.15999985,74,"white",1250,32,"transported",1,NA,NA,0,0,"vaginal",2,1,1,0,1,"absent","absent","absent",82.0547485,"male",0
+"43",82.0559998,82.1460037,33,6.89999771,181,"white",1360,30,"born at Duke",0,NA,NA,0,0,"abdominal",8,1,1,0,0,"definite","absent","absent",82.0574341,"female",0
+"44",NA,NA,NA,NA,NA,NA,590,23,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"45",82.0839996,82.197998,42,7.2899971,234,"black",1030,29,"born at Duke",0,NA,NA,0,0,"vaginal",9,0,0,0,0,"absent","absent","absent",82.0848389,"female",0
+"46",82.1080017,82.2419968,49,7.25999832,174,"black",1070,28,"born at Duke",0,NA,NA,0,0,"vaginal",6,0,0,0,0,"absent","absent","absent",82.1094971,"female",0
+"47",82.1080017,82.2009964,34,7.2899971,51,"black",1500,31,"born at Duke",0,NA,NA,1,1,"abdominal",8,0,0,0,0,"absent","absent","absent",82.1094971,"female",0
+"48",82.1330032,82.2419968,40,7.05999756,200,"white",1500,28.5,"born at Duke",0,NA,NA,0,1,"vaginal",9,0,0,0,0,"absent","absent","absent",82.1340942,"male",0
+"49",NA,NA,NA,NA,NA,NA,1300,30,"transported",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"50",82.163002,82.3330002,62,7.17999649,197,"white",1100,30,"born at Duke",0,NA,NA,1,0,"abdominal",8,1,0,0,0,"absent","absent","absent",82.1642456,"female",0
+"51",82.163002,82.2939987,48,7.17999649,270,"black",1400,30,"born at Duke",0,NA,NA,1,0,"vaginal",9,0,0,0,0,NA,NA,NA,82.1642456,"male",0
+"52",82.1679993,82.1679993,-2,6.82999802,NA,"black",740,NA,"transported",NA,NA,NA,NA,NA,"vaginal",1,1,0,0,0,"definite","definite","definite",82.1697388,"male",1
+"53",82.2040024,82.3820038,65,7.12999725,197,"white",1230,28,"born at Duke",0,NA,NA,1,1,"abdominal",6,1,1,0,0,"absent","absent","absent",82.2053223,"male",0
+"54",82.2070007,82.5130005,112,6.95999908,132,"white",940,28,"born at Duke",0,NA,NA,1,0,"abdominal",6,1,0,0,1,"absent","absent","absent",82.2080688,"female",0
+"55",82.2089996,82.4720001,96,7.19999695,247,"white",920,26,"born at Duke",0,NA,NA,0,1,"vaginal",6,1,0,0,1,"absent","absent","absent",82.2107544,"female",0
+"56",82.2399979,82.4530029,78,7.15999985,189,"black",1420,29,"born at Duke",0,NA,NA,1,1,"vaginal",8,0,0,0,0,"absent","absent","absent",82.2409058,"male",0
+"57",82.2480011,82.2480011,-2,7.1099968,274,"black",1030,27,"born at Duke",0,NA,NA,0,0,"abdominal",2,1,1,0,0,NA,NA,NA,82.2490845,"female",1
+"58",82.2669983,82.4260025,58,6.96999741,227,"white",1360,28,"born at Duke",0,NA,NA,1,0,"abdominal",8,1,1,0,0,"absent","absent","absent",82.2682495,"female",0
+"59",82.2699966,82.3379974,25,7.19999695,226,"black",1180,29,"born at Duke",0,NA,NA,0,1,"abdominal",8,0,0,0,0,NA,NA,NA,82.2709961,"female",0
+"60",82.2699966,82.3850021,42,7.21999741,144,"black",1240,30,"transported",0,NA,NA,0,0,NA,6,0,0,0,0,"definite","absent","absent",82.2709961,"female",0
+"61",82.2969971,82.2969971,-2,7.25,NA,"black",930,25,"born at Duke",0,NA,NA,0,1,"vaginal",3,1,1,0,0,"absent","absent","absent",82.2984009,"male",1
+"62",82.3000031,82.3960037,35,7.38999939,191,"black",1320,31,"born at Duke",0,NA,NA,1,0,"vaginal",8,0,0,0,0,"definite","absent","absent",82.3011475,"female",0
+"63",NA,NA,NA,NA,NA,NA,550,23,"transported",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"64",NA,NA,NA,NA,NA,NA,540,23,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"65",82.3000031,82.3379974,14,7.25999832,256,"black",990,27.5,"born at Duke",1,NA,NA,1,1,"abdominal",7,1,0,0,0,"absent","absent","absent",82.3011475,"male",1
+"66",82.3000031,82.4670029,61,7.21999741,267,"black",990,27.5,"born at Duke",1,NA,NA,1,1,"abdominal",8,1,0,0,0,"absent","absent","absent",82.3011475,"male",0
+"67",82.3000031,82.3030014,1,6.84999847,245,"black",800,28,"born at Duke",1,NA,NA,1,1,"abdominal",3,1,1,0,0,"absent","absent","absent",82.3011475,"female",1
+"68",82.3300018,82.4449997,42,7.01999664,216,"white",1270,29,"born at Duke",0,NA,NA,0,0,"abdominal",7,1,0,0,0,"possible","absent","absent",82.3312378,"female",0
+"69",82.348999,82.4069977,21,7.16999817,247,"white",1250,29,"born at Duke",0,NA,NA,0,0,"abdominal",8,1,1,1,0,"definite","absent","absent",82.3504028,"male",1
+"70",82.348999,82.7460022,145,7.25999832,191,"black",1050,27,"born at Duke",0,NA,NA,0,0,"vaginal",1,1,1,1,1,"absent","absent","absent",82.3504028,"male",0
+"71",NA,NA,NA,NA,NA,NA,580,23,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"absent","absent","absent",NA,NA,1
+"72",82.3570023,82.4749985,43,7.27999878,209,"white",1420,33,"transported",1,NA,NA,0,0,"abdominal",4,0,0,0,0,NA,NA,NA,82.3586426,"female",0
+"73",NA,NA,NA,NA,NA,NA,630,23,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"absent","absent","absent",NA,NA,1
+"74",82.3659973,82.4749985,40,7.07999802,571,"black",1450,30,"born at Duke",0,NA,NA,0,0,"vaginal",1,0,0,0,0,"absent","absent","absent",82.3668213,"male",0
+"75",82.3710022,82.4700012,36,7.27999878,319,"white",1270,29,"born at Duke",0,NA,NA,1,1,"vaginal",8,0,0,0,0,NA,NA,NA,82.3723145,"male",0
+"76",82.3899994,82.552002,59,7.22999954,259,"white",1090,29,"born at Duke",0,NA,NA,0,0,"vaginal",1,1,1,0,0,"absent","absent","absent",82.3914795,"female",0
+"77",82.4179993,82.5930023,64,7.21999741,168,"native American",830,28,"born at Duke",1,NA,NA,1,0,"abdominal",6,0,0,0,0,"absent","absent","absent",82.4188843,"female",0
+"78",82.4199982,82.5630035,52,7.29999924,76,"black",830,28,"born at Duke",0,NA,NA,0,0,"vaginal",2,0,0,0,0,"absent","absent","absent",82.4215698,"male",0
+"79",82.4199982,82.4909973,26,7.14999771,NA,"white",1380,32,"born at Duke",0,NA,NA,0,0,"abdominal",4,1,1,0,0,"absent","absent","absent",82.4215698,"female",0
+"80",82.4339981,82.5130005,29,7.22999954,211,"black",1330,32,"born at Duke",0,NA,NA,0,0,"vaginal",1,0,0,0,0,NA,NA,NA,82.4353027,"male",0
+"81",82.4369965,82.5110016,27,7.34999847,237,"white",1440,28,"born at Duke",0,NA,NA,0,0,"vaginal",2,0,0,0,0,"definite","definite","absent",82.4380493,"female",0
+"82",82.4449997,82.5899963,53,7.20999908,397,"oriental",960,28,"born at Duke",0,NA,NA,1,1,"vaginal",3,0,0,0,0,"definite","absent","absent",82.446228,"female",0
+"83",82.4589996,82.5130005,20,7.33999634,220,"black",1240,31.5,"born at Duke",0,NA,NA,0,0,"abdominal",5,0,0,0,0,NA,NA,NA,82.4598999,"male",0
+"84",82.5130005,82.8529968,124,7.29999924,227,"white",900,27,"born at Duke",0,NA,NA,0,0,"vaginal",4,0,0,0,0,"absent","absent","absent",82.5147095,"male",0
+"85",82.5110016,82.552002,15,7.19999695,132,"black",1230,30,"born at Duke",0,NA,NA,0,0,"abdominal",8,1,0,0,0,"absent","absent","absent",82.5119629,"female",0
+"86",82.5240021,82.5709991,17,7.01999664,135,"white",1360,33,"born at Duke",1,NA,NA,1,0,"abdominal",8,1,0,0,0,NA,NA,NA,82.5256348,"female",0
+"87",82.5350037,82.6119995,28,7,196,"black",1170,29,"born at Duke",0,NA,NA,0,0,"vaginal",8,0,0,0,0,"definite","absent","absent",82.5365601,"male",0
+"88",82.5350037,82.8040009,98,7.16999817,107,"white",790,27,"born at Duke",0,NA,NA,0,0,"abdominal",1,1,0,0,1,"possible","absent","absent",82.5365601,"female",0
+"89",NA,NA,NA,NA,NA,NA,805,25,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"absent","absent","absent",NA,NA,1
+"90",82.5630035,82.5650024,1,7,NA,"black",675,25,"born at Duke",1,NA,NA,1,1,"vaginal",3,1,0,0,NA,"absent","absent","absent",82.5639648,"female",1
+"91",82.5709991,82.6060028,13,7.31999969,232,"black",1140,32,"born at Duke",0,NA,NA,0,0,"vaginal",8,0,0,0,0,"definite","absent","absent",82.5722046,"male",0
+"92",82.5790024,82.6419983,23,7.19999695,209,"white",1250,29,"born at Duke",0,NA,NA,0,0,"vaginal",6,1,0,0,0,"definite","absent","absent",82.5803833,"female",1
+"93",82.5899963,82.6689987,29,7.23999786,NA,"black",670,26,"born at Duke",0,NA,NA,0,0,"vaginal",5,0,0,0,NA,"possible","absent","absent",82.5913696,"female",1
+"94",82.5849991,82.6640015,29,7.00999832,24,"white",1000,32,"transported",0,NA,NA,NA,NA,"abdominal",3,1,0,0,0,"definite","absent","absent",82.5858765,"male",0
+"95",82.5979996,82.8499985,92,7.12999725,109,"black",1325,30,"born at Duke",1,NA,NA,0,0,"abdominal",5,1,0,1,1,"definite","absent","absent",82.5995483,"male",0
+"96",82.5979996,82.7730026,64,7.15999985,NA,"black",1050,30,"born at Duke",1,NA,NA,0,0,"abdominal",1,1,0,1,1,"absent","absent","absent",82.5995483,"male",0
+"97",82.6009979,82.8359985,86,7.12999725,187,"white",1310,30,"born at Duke",1,NA,NA,1,1,"vaginal",7,1,0,0,1,"absent","absent","absent",82.6022949,"female",0
+"98",82.6009979,82.8359985,86,7.18999863,161,"white",1450,30,"born at Duke",1,NA,NA,1,1,"vaginal",6,1,0,0,0,"absent","absent","absent",82.6022949,"female",0
+"99",82.6149979,82.6969986,30,7.29999924,142,"black",1200,28,"born at Duke",0,NA,NA,0,1,"vaginal",2,0,0,0,0,"absent","absent","absent",82.6159668,"male",0
+"100",82.6309967,82.6689987,14,7.45999908,NA,"white",1210,33,"born at Duke",0,NA,NA,1,0,"abdominal",7,0,0,0,0,"definite","absent","absent",82.6323853,"male",0
+"101",82.637001,82.8939972,94,7.13999939,286,"black",880,27,"transported",0,NA,NA,0,0,"vaginal",3,1,0,0,1,"possible","absent","absent",82.6378784,"male",0
+"102",82.6719971,82.7870026,42,7.23999786,183,"black",1240,28,"born at Duke",0,NA,NA,1,0,"abdominal",5,0,0,0,0,NA,NA,NA,82.6734619,"male",0
+"103",82.6750031,82.9840012,113,6.52999878,144,"black",850,26,"born at Duke",0,NA,NA,0,0,"vaginal",1,1,0,0,1,"absent","absent","absent",82.6762085,"female",0
+"104",82.689003,82.7210007,12,7.25999832,237,"black",1460,32,"born at Duke",1,NA,NA,0,0,"abdominal",1,0,0,0,0,NA,NA,NA,82.6898804,"male",0
+"105",82.689003,82.7160034,10,7.25,288,"black",1475,32,"born at Duke",1,NA,NA,1,0,"abdominal",5,0,0,0,0,NA,NA,NA,82.6898804,"female",0
+"106",NA,NA,NA,NA,NA,NA,650,25,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"107",82.7099991,82.8470001,50,7.32999802,294,"white",1180,29,"born at Duke",0,NA,NA,1,0,"vaginal",5,0,0,0,0,NA,NA,NA,82.711792,"female",0
+"108",82.7129974,82.8420029,47,7.21999741,211,"black",1450,30,"born at Duke",0,NA,NA,0,0,"vaginal",6,1,0,0,0,NA,NA,NA,82.7145386,"male",0
+"109",82.7160034,82.8420029,46,7.21999741,190,"black",1390,32,"born at Duke",0,NA,NA,0,0,"abdominal",1,1,0,0,0,"absent","absent","absent",82.7172852,"male",0
+"110",82.737999,83.1399994,147,7.20999908,NA,"white",875,30,"born at Duke",0,NA,NA,NA,0,"vaginal",6,0,0,0,1,"definite","absent","absent",82.7391968,"female",0
+"111",82.7949982,83.1900024,144,7.19999695,248,"black",1120,29,"born at Duke",0,NA,NA,0,0,"vaginal",9,1,0,0,0,"definite","absent","absent",82.7966919,"male",0
+"112",82.8170013,82.8199997,1,6.80999756,NA,"white",600,24,"born at Duke",0,NA,NA,0,0,"vaginal",3,1,1,0,NA,NA,NA,NA,82.8186035,"male",1
+"113",NA,NA,NA,NA,NA,NA,1040,25,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"absent","absent","absent",NA,NA,1
+"114",82.8339996,82.8560028,8,7.21999741,256,"black",880,25,"transported",0,NA,NA,0,0,"vaginal",5,1,0,0,0,NA,NA,NA,82.835022,"male",0
+"115",82.875,83.0250015,55,7.25999832,334,"black",1370,30,"born at Duke",0,NA,NA,0,1,"abdominal",3,0,0,0,0,"definite","absent","absent",82.8760986,"female",0
+"116",82.8769989,82.9540024,28,7.15999985,299,"white",1310,33,"born at Duke",0,NA,NA,0,0,"abdominal",8,0,0,0,0,"absent","absent","absent",82.8788452,"male",0
+"117",82.8799973,83.112999,85,7.16999817,130,"black",865,26.5,"born at Duke",0,NA,NA,1,0,"vaginal",2,1,0,0,1,"absent","absent","absent",82.8815308,"male",0
+"118",82.8830032,83.151001,98,7.40999985,204,"white",1275,28,"born at Duke",0,NA,NA,1,1,"vaginal",9,0,0,0,0,NA,NA,NA,82.8842773,"male",0
+"119",82.8880005,82.9919968,38,7.19999695,216,"white",1160,28,"transported",0,NA,NA,0,0,"vaginal",5,1,0,0,0,"absent","absent","absent",82.8897705,"male",0
+"120",82.8880005,82.9759979,32,7.33999634,287,"white",1280,28,"born at Duke",0,NA,NA,1,0,"abdominal",4,0,0,0,1,NA,NA,NA,82.8897705,"female",0
+"121",82.8909988,83.0090027,43,7.33999634,207,"black",1100,32,"born at Duke",0,NA,NA,0,0,"abdominal",8,0,0,0,0,NA,NA,NA,82.8925171,"female",0
+"122",82.8909988,82.9209976,11,7.22999954,311,"black",1415,31,"born at Duke",1,NA,NA,0,0,"abdominal",8,0,0,0,0,NA,NA,NA,82.8925171,"male",0
+"123",NA,NA,NA,NA,NA,NA,1100,30,"born at Duke",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"124",82.8939972,83.0090027,42,7.39999771,173,"white",1370,30,"born at Duke",1,NA,NA,1,0,"abdominal",6,0,0,0,0,"absent","absent","absent",82.8952637,"female",0
+"125",82.9380035,83.0859985,54,7.01999664,246,"white",980,28.5,"born at Duke",0,NA,NA,1,1,"abdominal",6,1,0,0,0,"definite","absent","absent",82.9390259,"male",0
+"126",82.9400024,83.1070023,61,7.25999832,216,"white",1000,28,"born at Duke",0,NA,NA,1,1,"vaginal",1,1,0,0,1,"absent","absent","absent",82.9417725,"male",0
+"127",82.9430008,83.1070023,60,7.12999725,235,"oriental",1360,31,"born at Duke",0,NA,NA,0,1,"abdominal",4,1,1,1,1,"absent","absent","absent",82.944519,"male",1
+"128",82.9509964,83.1210022,62,7.37999725,313,"black",1150,27,"born at Duke",0,NA,NA,1,0,"vaginal",8,0,0,0,0,NA,NA,NA,82.9527588,"female",0
+"129",82.9540024,83.0500031,35,7.43999863,260,"black",1200,29,"born at Duke",0,NA,NA,1,0,"abdominal",8,0,0,0,0,NA,NA,NA,82.9555054,"male",0
+"130",82.9599991,82.9680023,3,6.94999695,121,"white",1100,30,"transported",0,NA,NA,0,1,"vaginal",2,1,0,0,0,"definite","definite","absent",82.9609375,"female",1
+"131",82.9649963,83.2360001,99,7.18999863,181,"black",730,27.5,"born at Duke",0,NA,NA,1,0,"abdominal",3,1,1,1,1,"absent","absent","absent",82.9664307,"male",0
+"132",82.9729996,83.197998,82,7.00999832,204,"white",1070,29,"transported",0,NA,NA,0,0,"abdominal",3,1,1,0,1,"absent","absent","absent",82.9746704,"male",0
+"133",82.9820023,83.2389984,94,7.15999985,174,"black",850,28,"born at Duke",0,NA,NA,0,0,"vaginal",2,1,0,0,1,"absent","absent","absent",82.9828491,"female",0
+"134",82.9980011,83.1809998,67,6.96999741,223,"black",1140,29,"born at Duke",0,NA,NA,0,0,"vaginal",8,0,0,0,0,"absent","absent","absent",83,"female",0
+"135",83.0029984,83.012001,3,7.11999893,NA,"black",660,25,"born at Duke",1,NA,NA,0,0,"vaginal",1,1,0,0,NA,NA,NA,NA,83.0054321,"male",1
+"136",83.0029984,83.012001,3,7.34999847,NA,"black",570,25,"born at Duke",1,NA,NA,0,0,"vaginal",1,1,0,0,0,"absent","absent","absent",83.0054321,"male",1
+"137",83.0059967,83.3209991,115,7.17999649,180,"black",1100,28,"born at Duke",0,NA,NA,1,0,"abdominal",2,1,0,0,1,"definite","definite","absent",83.0081787,"female",0
+"138",83.0250015,83.0279999,1,NA,NA,"native American",1210,32,"born at Duke",0,NA,NA,1,0,"vaginal",2,1,1,0,0,NA,NA,NA,83.0273438,"female",1
+"139",83.0390015,83.1380005,36,7.3599968,283,"black",1350,31,"born at Duke",0,NA,NA,0,0,"abdominal",8,0,0,0,0,NA,NA,NA,83.0410156,"male",0
+"140",83.0530014,83.1019974,18,7.13999939,149,"black",940,28,"born at Duke",0,NA,NA,1,0,"abdominal",5,1,0,0,0,"definite","definite","absent",83.0547485,"male",1
+"141",83.0660019,83.6110001,199,7.11999893,149,"black",765,26,"born at Duke",0,NA,NA,0,0,"vaginal",4,1,0,1,1,"absent","absent","absent",83.0684204,"female",1
+"142",83.0690002,83.151001,30,7.43999863,NA,"black",1330,33,"born at Duke",0,NA,NA,0,0,"abdominal",9,0,0,0,0,NA,NA,NA,83.071167,"female",0
+"143",83.0719986,83.1920013,44,7.30999756,183,"white",1420,30,"born at Duke",1,NA,NA,0,0,"vaginal",8,0,0,0,0,"absent","absent","absent",83.0739136,"male",0
+"144",83.0719986,83.2610016,69,7.16999817,176,"white",1450,30,"born at Duke",1,NA,NA,0,0,"vaginal",6,1,1,0,0,"absent","absent","absent",83.0739136,"female",0
+"145",83.0770035,83.3700027,107,7.11999893,117,"native American",610,27,"transported",0,NA,NA,0,0,"vaginal",0,1,0,0,1,"absent","absent","absent",83.0793457,"male",0
+"146",83.0940018,83.1240005,11,7.33999634,56,"white",1075,27,"born at Duke",0,NA,NA,0,0,"vaginal",1,1,1,0,0,"absent","absent","absent",83.0957642,"male",1
+"147",83.1100006,83.2990036,69,7.31999969,219,"black",1015,26,"born at Duke",0,NA,NA,0,0,"vaginal",NA,0,0,0,0,NA,NA,NA,83.1122437,"male",0
+"148",83.1159973,83.1159973,-2,7.22999954,156,"black",970,28,"born at Duke",0,NA,NA,1,0,"vaginal",1,1,0,0,0,NA,NA,NA,83.1176758,"female",1
+"149",83.1269989,83.2549973,47,7.29999924,157,"white",1500,30,"born at Duke",0,NA,NA,0,0,"vaginal",4,1,0,0,1,NA,NA,NA,83.1286621,"female",0
+"150",83.1320038,83.4029999,99,7.13999939,63,"black",1000,27,"born at Duke",0,NA,NA,0,1,"vaginal",1,1,1,1,1,"absent","absent","absent",83.1340942,"female",1
+"151",83.1569977,83.3320007,64,7.18999863,148,"white",870,28,"born at Duke",0,NA,NA,0,0,"abdominal",8,1,0,0,1,"absent","absent","absent",83.1587524,"male",0
+"152",83.1650009,83.3050003,51,7.29999924,131,"white",1310,31,"born at Duke",0,NA,NA,1,0,"vaginal",7,0,0,0,0,"absent","absent","absent",83.1669922,"female",0
+"153",83.1650009,83.1679993,1,6.77999878,341,"black",1130,29,"born at Duke",0,NA,NA,1,0,"vaginal",6,1,0,0,0,"definite","definite","absent",83.1669922,"female",1
+"154",83.1729965,83.3130035,51,7.37999725,129,"black",1230,31,"born at Duke",0,NA,NA,1,0,"abdominal",8,0,0,0,0,NA,NA,NA,83.1751709,"female",0
+"155",83.1869965,83.487999,110,7.01999664,205,"white",1390,31,"born at Duke",0,NA,NA,1,0,"abdominal",8,1,0,1,1,NA,NA,NA,83.1889038,"male",0
+"156",83.1949997,83.3290024,49,7.25,377,"black",1100,29.5,"born at Duke",1,NA,NA,1,1,"vaginal",8,0,0,0,0,NA,NA,NA,83.1970825,"male",0
+"157",83.1949997,83.435997,88,7.21999741,242,"black",1150,29.5,"born at Duke",1,NA,NA,1,1,"vaginal",3,1,0,1,1,"absent","absent","absent",83.1970825,"male",1
+"158",83.2389984,83.3479996,40,7.25,199,NA,1010,28,"born at Duke",0,NA,NA,0,0,"abdominal",8,NA,NA,NA,NA,NA,NA,NA,83.2409058,"female",0
+"159",83.25,83.3730011,45,7.29999924,351,"black",1230,26,"born at Duke",0,NA,NA,0,0,"vaginal",9,0,0,0,0,NA,NA,NA,83.2518311,"male",0
+"160",83.302002,83.4690018,61,7.25999832,226,"black",1010,30,"born at Duke",0,NA,NA,0,0,"abdominal",1,1,0,0,0,NA,NA,NA,83.303894,"female",0
+"161",83.3099976,83.3130035,1,6.84999847,173,"white",1020,29,"born at Duke",0,NA,NA,1,0,"vaginal",2,1,0,0,0,"absent","absent","absent",83.3120728,"male",1
+"162",83.3160019,83.4469986,48,7.22999954,186,"native American",950,28,"born at Duke",0,NA,NA,0,0,"abdominal",2,1,0,0,1,"possible","absent","absent",83.3175659,"male",0
+"163",83.3160019,83.473999,58,7.30999756,230,"black",1000,28,"born at Duke",1,NA,NA,0,1,"abdominal",6,0,0,0,0,NA,NA,NA,83.3175659,"male",0
+"164",83.3160019,83.5429993,83,7.18999863,239,"black",1095,28,"born at Duke",0,NA,NA,0,1,"abdominal",1,1,0,0,1,"absent","absent","absent",83.3175659,"male",0
+"165",83.3259964,83.4550018,47,7.44999695,286,"black",1190,29,"born at Duke",0,NA,NA,0,0,"abdominal",8,0,0,0,0,NA,NA,NA,83.3284912,"female",0
+"166",83.336998,83.6029968,97,7.42999649,416,"white",1080,28,"born at Duke",0,NA,NA,1,0,"vaginal",6,1,0,0,1,"possible","absent","absent",83.3394775,"male",0
+"167",83.3649979,83.435997,26,7.11999893,191,"white",1100,28,"transported",0,NA,NA,0,0,"vaginal",1,1,1,1,0,"definite","definite","absent",83.3668213,"male",1
+"168",83.3809967,83.5999985,80,7.29999924,246,"white",1340,29,"born at Duke",1,NA,NA,1,0,"abdominal",8,0,0,0,1,"absent","absent","absent",83.3832397,"male",0
+"169",83.3809967,83.5459976,60,7.31999969,208,"white",1280,29,"born at Duke",1,NA,NA,1,1,"abdominal",4,0,0,1,1,"absent","absent","absent",83.3832397,"male",0
+"170",83.3809967,83.435997,20,7.41999817,289,"white",1030,32,"born at Duke",0,NA,NA,1,0,"vaginal",8,0,0,0,0,"absent","absent","absent",83.3832397,"female",0
+"171",83.4089966,83.4410019,12,7.16999817,50,"native American",640,26.5,"born at Duke",0,NA,NA,0,0,"abdominal",2,1,1,1,NA,"possible","absent","absent",83.4106445,"male",1
+"172",83.4199982,83.5650024,53,7.16999817,252,"black",880,26.5,"born at Duke",0,NA,NA,1,0,"vaginal",4,1,0,0,1,"absent","absent","absent",83.4215698,"female",0
+"173",83.4219971,83.4690018,17,7.27999878,175,"black",1220,28,"born at Duke",0,NA,NA,0,0,"vaginal",7,0,0,0,0,"absent","definite","absent",83.4243164,"male",0
+"174",83.4280014,83.4660034,14,7.33999634,202,"black",1080,32,"born at Duke",0,NA,NA,0,0,"abdominal",7,0,0,0,0,NA,NA,NA,83.4298096,"female",0
+"175",83.4309998,83.5070038,28,7.00999832,132,"black",600,24,"transported",0,NA,NA,1,0,"vaginal",5,1,0,1,NA,"definite","absent","definite",83.4325562,"female",1
+"176",83.435997,83.5479965,41,7.09999847,34,"native American",1110,29,"transported",0,NA,NA,0,0,"vaginal",6,1,0,0,0,"absent","absent","definite",83.4380493,"male",0
+"177",83.4660034,83.5889969,45,7.31999969,358,"white",1210,30,"born at Duke",0,NA,NA,1,1,"vaginal",7,0,0,0,0,"definite","definite","absent",83.4681396,"female",0
+"178",83.4769974,83.4929962,6,7.13999939,190,"black",600,25,"born at Duke",0,NA,NA,0,0,"abdominal",5,1,0,0,NA,"absent","absent","absent",83.4790649,"male",1
+"179",83.4769974,83.4960022,7,7.09999847,28,"white",1140,27,"born at Duke",0,NA,NA,0,0,"abdominal",1,1,0,0,0,"definite","definite","absent",83.4790649,"female",1
+"180",83.487999,83.6610031,63,7.12999725,238,"native American",950,27,"born at Duke",0,NA,NA,0,0,"abdominal",2,1,1,1,1,"definite","absent","absent",83.4900513,"female",0
+"181",83.4960022,83.572998,28,7.20999908,224,"black",790,29,"transported",0,NA,0,0,0,"vaginal",NA,0,0,1,0,"absent","absent","absent",83.49823,"male",1
+"182",83.5149994,83.5540009,14,7.17999649,129,"black",1085,27.5,"born at Duke",1,NA,0,0,0,"abdominal",1,1,1,1,0,"absent","absent","absent",83.517395,"male",1
+"183",83.5149994,83.8899994,137,7.14999771,106,"black",780,27.5,"born at Duke",1,NA,0,0,0,"abdominal",3,1,1,1,1,"absent","absent","absent",83.517395,"male",0
+"184",83.5149994,83.6029968,32,7.38999939,137,"black",1180,28,"born at Duke",0,NA,0,1,0,"abdominal",4,0,0,0,0,NA,NA,NA,83.517395,"female",0
+"185",83.5240021,83.6439972,44,7.3599968,227,"white",1180,28,"born at Duke",0,NA,0,1,1,"vaginal",8,0,0,0,0,"absent","absent","absent",83.5256348,"female",0
+"186",83.5370026,83.6190033,30,7.07999802,177,"black",1240,29,"born at Duke",0,NA,0,0,1,"vaginal",5,0,0,0,0,"definite","absent","absent",83.5393066,"female",0
+"187",83.5429993,83.6610031,43,7.36999893,90,"black",1100,32,"born at Duke",0,NA,0,1,0,"vaginal",2,0,0,0,0,NA,NA,NA,83.5447998,"female",0
+"188",83.5459976,83.6610031,42,7.32999802,271,"black",1110,29.5,"born at Duke",0,NA,0,1,0,"abdominal",8,0,0,0,0,"possible","absent","absent",83.5475464,"male",0
+"189",83.5589981,83.8710022,114,7.25999832,179,"black",670,26.5,"born at Duke",0,NA,0,1,0,"abdominal",1,1,1,0,1,"absent","absent","absent",83.5612183,"male",0
+"190",83.5589981,83.6360016,28,7.31999969,193,"black",1430,32,"born at Duke",0,NA,0,1,1,"vaginal",2,0,0,0,0,NA,NA,NA,83.5612183,"female",0
+"191",83.572998,83.6989975,46,7.16999817,212,"black",1077,30,"transported",0,NA,0,0,0,"vaginal",6,1,0,1,0,"absent","absent","absent",83.5748901,"male",0
+"192",83.572998,83.5889969,6,7.16999817,247,"white",808,27.5,"transported",0,NA,0,0,0,"abdominal",1,1,1,0,0,"absent","definite","absent",83.5748901,"female",1
+"193",83.5780029,83.6279984,18,7.18999863,135,"black",1340,29,"born at Duke",0,NA,0,0,1,"vaginal",2,0,0,0,0,"absent","possible","absent",83.5803833,"female",0
+"194",83.5920029,83.5920029,-2,6.91999817,100,"white",880,28,"transported",1,NA,0,0,0,"abdominal",3,1,1,0,0,"definite","definite","absent",83.5940552,"female",1
+"195",83.5889969,83.5950012,2,7,187,"white",880,28,"transported",1,NA,0,0,0,"abdominal",2,1,1,0,0,"definite","absent","absent",83.5913696,"female",1
+"196",83.5950012,83.6520004,21,7.36999893,175,"white",1230,29,"born at Duke",0,NA,0,1,0,"abdominal",2,0,0,0,0,"absent","absent","absent",83.5968018,"female",0
+"197",83.5999985,83.6819992,30,7.17999649,122,"black",1350,30,"born at Duke",0,NA,0,0,0,"abdominal",2,1,0,1,0,NA,NA,NA,83.6022949,"male",0
+"198",83.6029968,83.7860031,67,7.08999634,272,"white",1290,32,"born at Duke",0,NA,0,1,0,"vaginal",7,1,1,0,1,"absent","absent","absent",83.6050415,"male",0
+"199",83.6139984,83.8359985,81,7.20999908,267,"black",1100,28,"born at Duke",0,NA,0,1,0,"abdominal",2,1,0,0,1,"absent","absent","absent",83.6159668,"female",0
+"200",83.6169968,83.6709976,20,7.25,214,"black",670,25.5,"born at Duke",0,NA,0,0,0,"vaginal",2,1,0,1,NA,"absent","absent","absent",83.6187134,"female",1
+"201",83.625,83.6439972,7,7.36999893,246,"black",1360,31.5,"born at Duke",0,NA,0,1,1,"vaginal",7,0,0,0,0,NA,NA,NA,83.6269531,"female",0
+"202",83.6389999,84.1100006,172,7.13999939,268,"black",1450,32,"transported",0,NA,0,0,0,"abdominal",4,1,0,1,1,"absent","absent","absent",83.640625,"male",1
+"203",83.6549988,83.9290009,100,7.13999939,227,"black",820,28,"born at Duke",0,NA,1,0,0,"abdominal",1,1,0,0,0,"absent","absent","absent",83.6570435,"female",0
+"204",83.6549988,83.6549988,-2,7.19999695,207,"black",670,22,"born at Duke",0,NA,0,0,0,"vaginal",2,1,0,0,NA,"absent","absent","absent",83.6570435,"female",1
+"205",83.6610031,83.7369995,28,7.23999786,258,"black",1280,30,"born at Duke",0,NA,1,1,0,"abdominal",5,0,0,0,0,NA,NA,NA,83.6625366,"male",0
+"206",83.6660004,83.8769989,77,6.98999786,110,"white",975,27.5,"transported",0,NA,0,0,0,"vaginal",1,1,0,1,1,"definite","definite","definite",83.6680298,"male",0
+"207",83.6740036,83.7969971,45,7.11999893,57,"white",1275,28,"transported",1,NA,0,0,1,"abdominal",6,1,1,1,0,NA,NA,NA,83.6762085,"female",0
+"208",83.6740036,83.7750015,37,7.29999924,370,"white",1120,28,"transported",1,NA,0,0,1,"abdominal",7,1,0,0,0,NA,NA,NA,83.6762085,"male",0
+"209",83.7229996,83.7259979,1,6.91999817,223,"black",600,23,"born at Duke",0,NA,0,0,0,"abdominal",1,1,1,0,NA,NA,NA,NA,83.7255249,"male",1
+"210",83.6800003,83.6989975,7,7.40999985,187,"white",1230,32,"born at Duke",0,NA,1,1,0,"abdominal",8,0,0,0,0,NA,NA,NA,83.6817017,"female",0
+"211",83.6800003,83.9069977,83,7.07999802,261,"white",1060,29,"born at Duke",0,NA,0,1,1,"abdominal",6,1,0,1,1,"absent","absent","absent",83.6817017,"female",0
+"212",83.6910019,83.7099991,7,7.33999634,309,"black",1290,30,"born at Duke",0,NA,0,1,0,"abdominal",1,0,0,0,0,NA,NA,NA,83.692627,"female",0
+"213",83.6930008,83.762001,25,7.37999725,130,"black",825,31,"born at Duke",0,NA,0,0,0,"abdominal",5,0,0,0,0,"absent","absent","absent",83.6953735,"female",0
+"214",83.7149963,83.7210007,2,7.18999863,NA,"black",652,25,"transported",1,NA,0,0,0,"vaginal",6,1,0,0,NA,"definite","definite","absent",83.7172852,"male",1
+"215",83.7320023,83.7320023,-2,7.1099968,192,"white",1100,27,"transported",0,NA,0,0,0,"abdominal",4,1,1,0,1,"absent","absent","absent",83.7337036,"male",0
+"216",83.7539978,83.814003,22,7.33999634,253,"white",1150,29,"born at Duke",0,NA,0,1,1,"vaginal",9,0,0,0,0,NA,NA,NA,83.7556152,"male",0
+"217",83.7539978,83.9209976,61,7.33999634,88,"black",870,36,"born at Duke",0,NA,1,0,0,"abdominal",8,0,0,0,0,"absent","absent","absent",83.7556152,"female",0
+"218",83.762001,84.2570038,181,7.15999985,141,"white",890,27,"born at Duke",0,NA,0,0,0,"abdominal",4,1,1,1,1,"absent","absent","absent",83.763855,"female",0
+"219",83.7669983,83.7750015,3,7.32999802,234,"black",1430,31,"transported",0,NA,0,0,0,"vaginal",8,0,0,0,0,NA,NA,NA,83.7692871,"female",0
+"220",83.7750015,84.9860001,442,7.07999802,188,"black",1140,29,"born at Duke",1,NA,0,0,0,"vaginal",4,1,0,1,1,"absent","absent","absent",83.7775269,"male",0
+"221",83.7750015,83.1179962,-240,7.05999756,56,"black",1140,29,"born at Duke",1,NA,0,0,0,"abdominal",2,1,0,1,1,"definite","definite","absent",83.7775269,"female",1
+"222",83.7750015,83.8280029,19,7.21999741,187,"black",1470,34,"born at Duke",0,NA,0,0,0,"abdominal",3,0,0,0,0,NA,NA,NA,83.7775269,"female",0
+"223",83.7860031,83.8880005,37,7.16999817,201,"black",1180,29,"transported",0,NA,0,0,0,"vaginal",1,1,0,0,0,"absent","absent","absent",83.7884521,"female",0
+"224",83.7919998,83.8600006,25,7.08999634,49,"black",765,26,"born at Duke",0,NA,0,1,0,"abdominal",1,1,1,1,0,"absent","absent","absent",83.7939453,"female",1
+"225",83.8079987,83.8710022,23,7.12999725,226,"black",1390,29,"born at Duke",0,NA,0,1,0,"abdominal",7,1,0,0,0,"absent","absent","absent",83.8103638,"male",0
+"226",83.814003,84.098999,104,7.2899971,168,"white",900,30,"born at Duke",0,NA,0,1,0,"vaginal",2,1,1,0,0,"absent","absent","absent",83.8158569,"female",0
+"227",83.8300018,83.9039993,27,7.33999634,134,"black",980,32,"born at Duke",0,NA,0,1,0,"vaginal",3,0,0,0,0,NA,NA,NA,83.8322754,"male",0
+"228",83.8600006,84.0189972,58,7.06999969,129,"native American",1180,30,"transported",0,NA,0,0,0,"abdominal",1,1,0,0,1,"absent","absent","absent",83.8623657,"male",0
+"229",83.8710022,83.9670029,35,7.12999725,77,"native American",1100,32,"born at Duke",0,NA,0,1,0,"vaginal",2,1,1,0,1,NA,NA,NA,83.8733521,"male",0
+"230",83.8820038,83.9700012,32,7.31999969,236,"white",1450,31,"born at Duke",1,NA,0,1,0,"abdominal",9,0,0,0,0,NA,NA,NA,83.8842773,"female",0
+"231",83.8820038,83.8880005,2,7.27999878,201,"white",1480,31,"born at Duke",1,NA,0,1,0,"abdominal",7,0,0,0,0,NA,NA,NA,83.8842773,"female",0
+"232",83.8960037,84.0329971,50,7.30999756,306,"white",1270,31.5,"born at Duke",1,NA,NA,0,0,"abdominal",7,0,0,0,0,"absent","absent","absent",83.8980103,"male",0
+"233",83.8960037,84.0049973,40,7.11999893,155,"white",1490,31.5,"born at Duke",1,NA,0,0,0,"abdominal",1,1,1,0,0,"absent","absent","absent",83.8980103,"male",0
+"234",83.901001,84.6569977,276,7.36999893,301,"black",820,28,"born at Duke",0,NA,0,0,0,"vaginal",8,1,0,1,1,"possible","absent","absent",83.9034424,"female",1
+"235",83.9069977,83.9290009,8,7.15999985,207,"white",1240,29,"born at Duke",0,NA,0,1,0,"abdominal",9,1,1,0,0,"absent","absent","absent",83.9089355,"male",1
+"236",83.9069977,83.9530029,17,6.97999954,154,"white",1060,31.5,"transported",1,NA,0,0,0,"vaginal",1,0,0,0,0,"absent","absent","absent",83.9089355,"female",0
+"237",83.9319992,84.0660019,49,6.95999908,70,"black",1130,29,"born at Duke",0,NA,0,0,0,"abdominal",1,1,0,0,0,"absent","absent","absent",83.9335938,"female",0
+"238",83.9400024,84.1419983,74,7.20999908,224,"white",800,28,"born at Duke",0,NA,0,1,0,"vaginal",4,1,0,0,1,"absent","absent","absent",83.9417725,"female",0
+"239",83.9670029,84.2080002,88,6.91999817,126,"black",880,26,"transported",0,NA,0,0,0,"vaginal",3,1,0,1,1,"absent","absent","absent",83.9691772,"male",1
+"240",83.9919968,84.2160034,82,7.09999847,175,"black",720,27,"born at Duke",0,NA,1,1,0,"abdominal",9,1,0,0,0,"absent","absent","absent",83.9938354,"female",0
+"241",84,84.2080002,76,7.25,243,"white",980,29,"born at Duke",1,NA,0,1,0,"vaginal",9,0,0,0,0,"absent","absent","absent",84.0026855,"male",0
+"242",84,84.1829987,67,7.29999924,240,"white",1150,29,"born at Duke",1,NA,0,1,0,"vaginal",9,0,0,0,0,"absent","absent","absent",84.0026855,"female",0
+"243",84.0049973,84.0439987,14,7.2899971,267,"black",1320,31,"born at Duke",0,NA,0,1,0,"vaginal",8,0,0,0,0,"absent","absent","absent",84.0081787,"female",0
+"244",84.0110016,84.2549973,89,7.33999634,84,"white",990,29.5,"transported",0,NA,0,0,0,"vaginal",7,0,1,1,0,NA,NA,"absent",84.0136719,"male",0
+"245",84.0270004,84.3639984,123,7.0399971,168,"black",587,25,"born at Duke",0,NA,0,0,0,"vaginal",6,1,0,0,1,"absent","absent","absent",84.0300903,"female",0
+"246",84.0410004,84.1009979,22,7.25999832,418,"white",1380,29.5,"born at Duke",0,NA,0,0,0,"abdominal",1,0,0,0,0,"absent","absent","absent",84.0437622,"female",0
+"247",84.0490036,84.0550003,2,7.02999878,323,"white",700,25,"transported",1,NA,0,0,0,"vaginal",5,1,1,0,0,NA,NA,NA,84.052002,"female",1
+"248",84.0709991,84.2330017,59,7.13999939,106,"white",1080,28,"born at Duke",0,NA,0,1,0,"abdominal",6,1,0,0,0,"absent","absent","absent",84.0739136,"male",0
+"249",84.0849991,84.2900009,75,7.17999649,129,"black",900,27,"born at Duke",0,NA,0,0,0,"vaginal",2,1,0,1,1,"absent","definite","absent",84.0875854,"male",0
+"250",84.1179962,84.1449966,10,7.37999725,313,"black",1300,30,"transported",0,NA,0,0,0,"vaginal",7,0,0,0,0,NA,NA,NA,84.1204224,"female",0
+"251",84.1230011,84.2570038,49,7.37999725,289,"black",980,27.5,"born at Duke",0,NA,0,1,1,"vaginal",6,0,0,0,0,NA,NA,NA,84.1259155,"female",0
+"252",NA,NA,NA,7.22999954,205,"black",1290,33.5,"transported",0,NA,0,NA,NA,"vaginal",5,1,0,0,0,"absent","absent","absent",NA,"male",0
+"253",84.1419983,84.2710037,47,7.21999741,214,"black",1375,33,"transported",0,NA,0,0,0,"vaginal",5,1,1,0,0,"absent","possible","absent",84.1450806,"male",0
+"254",84.1529999,84.6709976,189,NA,103,"white",880,29,"born at Duke",1,NA,1,0,0,"abdominal",2,1,0,1,1,NA,"absent","absent",84.1560059,"male",0
+"255",84.185997,84.3700027,67,7.23999786,234,"white",1305,29,"born at Duke",0,NA,0,1,0,"vaginal",7,0,0,0,0,"absent","absent","absent",84.1889038,"female",0
+"256",84.189003,84.2519989,23,7.34999847,379,"black",1410,32,"born at Duke",0,NA,0,1,0,"abdominal",9,0,0,0,0,NA,NA,NA,84.1915894,"male",0
+"257",84.1969986,84.4240036,83,6.88999939,126,"white",1500,29,"transported",0,NA,0,0,0,"abdominal",5,1,1,0,1,"absent","absent","absent",84.1998291,"male",0
+"258",84.1999969,84.2050018,2,6.75999832,249,"black",610,26,"transported",0,NA,0,0,0,"vaginal",3,1,1,0,NA,"definite","definite","absent",84.2025757,"male",1
+"259",84.2030029,84.2190018,6,7.34999847,252,"white",1490,30,"born at Duke",0,NA,0,0,1,"vaginal",4,0,0,0,0,"absent","absent","absent",84.2053223,"female",0
+"260",84.2109985,84.2249985,5,7.29999924,212,"black",1460,30,"born at Duke",1,NA,0,1,0,"abdominal",7,0,0,0,0,NA,NA,NA,84.213501,"female",0
+"261",84.2050018,84.3180008,41,7.15999985,84,"black",850,26,"born at Duke",0,NA,0,0,0,"abdominal",3,1,1,1,1,"absent","absent","absent",84.2080688,"male",1
+"262",84.2190018,84.2570038,14,7.20999908,190,"black",1450,30,"transported",0,NA,0,0,0,"vaginal",8,0,0,0,0,NA,NA,NA,84.2217407,"male",0
+"263",84.2490005,84.4599991,77,7.17999649,282,"black",1120,31,"born at Duke",0,NA,0,0,0,"vaginal",5,1,0,1,1,"absent","absent","absent",84.2518311,"female",0
+"264",84.2570038,84.3450012,32,7.47999954,356,"black",1290,30,"born at Duke",0,NA,0,1,0,"vaginal",9,0,0,0,0,NA,NA,NA,84.2600708,"male",0
+"265",84.2740021,84.3180008,16,7.3599968,172,"black",1375,32,"born at Duke",0,NA,1,0,0,"vaginal",8,0,0,0,0,"absent","definite","absent",84.2764893,"female",0
+"266",84.2819977,84.2979965,6,7.18999863,223,"white",790,26,"transported",0,NA,0,0,0,"vaginal",NA,1,1,0,0,"absent","absent","absent",84.284729,"male",1
+"267",84.2870026,84.3610001,27,7.36999893,384,"white",1350,32,"born at Duke",0,NA,0,1,1,"vaginal",9,0,0,0,0,"absent","absent","absent",84.2901611,"male",0
+"268",84.2979965,84.4710007,63,7.08999634,235,"white",1200,31,"born at Duke",0,NA,0,0,1,"vaginal",6,1,0,0,0,"absent","absent","absent",84.3011475,"female",0
+"269",84.2979965,84.4440002,53,7.05999756,256,"white",1350,28,"born at Duke",0,NA,0,0,0,"abdominal",6,1,0,1,1,"absent","absent","absent",84.3011475,"male",0
+"270",84.3010025,84.5009995,73,7.05999756,82,"black",740,32,"born at Duke",0,NA,1,0,0,"abdominal",3,1,1,0,1,"absent","absent","absent",84.303894,"male",1
+"271",84.3180008,84.3860016,25,7.34999847,202,"white",1180,31,"born at Duke",1,NA,0,0,0,"abdominal",3,0,0,0,0,"absent","absent","absent",84.3203125,"male",0
+"272",84.3290024,84.6380005,113,7.12999725,258,"white",1090,29,"born at Duke",0,NA,1,0,0,"abdominal",8,1,1,0,1,"absent","absent","absent",84.3312378,"female",0
+"273",84.336998,84.4710007,49,7.23999786,185,"black",1160,28.5,"born at Duke",1,NA,0,1,0,"abdominal",2,1,0,0,0,"absent","absent","absent",84.3394775,"female",0
+"274",84.336998,84.4489975,41,7.23999786,138,"black",1280,28.5,"born at Duke",1,NA,0,1,0,"abdominal",2,1,0,1,0,"absent","absent","absent",84.3394775,"female",0
+"275",84.3479996,84.4240036,28,7.20999908,185,"black",1420,33.5,"born at Duke",0,NA,1,0,0,"abdominal",9,0,0,0,0,"absent","absent","absent",84.3504028,"female",0
+"276",84.3499985,84.564003,78,7.16999817,135,"white",905,27,"born at Duke",0,NA,0,0,0,"vaginal",6,1,0,0,0,"absent","absent","absent",84.3531494,"female",0
+"277",84.3779984,84.5970001,80,7,148,"black",860,26.5,"born at Duke",0,NA,0,0,0,"vaginal",1,1,1,0,1,"absent","absent","absent",84.3805542,"male",0
+"278",84.3889999,84.4820023,34,7.31999969,269,"black",1250,30,"born at Duke",0,NA,0,1,0,"vaginal",8,0,0,0,0,"absent","absent","absent",84.3914795,"female",0
+"279",84.4110031,84.5940018,67,7.22999954,253,"black",760,25,"born at Duke",0,NA,0,1,0,"vaginal",7,1,0,0,1,"absent","absent","absent",84.4133911,"female",1
+"280",84.4410019,84.5199966,29,7.34999847,168,"white",1160,34,"born at Duke",0,NA,1,0,0,"abdominal",8,0,0,0,0,"absent","absent","absent",84.4434814,"male",0
+"281",84.4629974,84.5309982,25,7.11999893,158,"white",1330,29,"born at Duke",1,NA,0,1,1,"abdominal",8,1,1,0,1,"absent","absent","absent",84.4653931,"male",0
+"282",84.4629974,84.5309982,25,7.25,251,"white",1240,29,"born at Duke",1,NA,0,1,1,"abdominal",7,1,0,0,1,"absent","absent","absent",84.4653931,"female",0
+"283",84.473999,84.4759979,1,6.69999695,NA,"black",640,24,"transported",0,NA,0,0,0,"vaginal",1,1,1,0,0,"absent","absent","absent",84.4763794,"male",1
+"284",84.4759979,84.5199966,16,7.19999695,269,"black",1330,32,"transported",0,NA,0,0,0,"vaginal",7,0,0,0,0,"absent","absent","absent",84.4790649,"male",0
+"285",84.4899979,86.6719971,797,7.25,251,"white",1240,30,"born at Duke",1,NA,0,1,0,"abdominal",7,1,0,0,1,"absent","absent","absent",84.4927979,"female",0
+"286",84.4960022,84.560997,24,7.36999893,365,"black",1500,34,"born at Duke",0,2,NA,1,0,"vaginal",6,0,0,0,0,NA,NA,NA,84.49823,"male",0
+"287",84.5009995,84.5070038,2,7.00999832,183,"black",990,26,"transported",1,6,NA,NA,NA,"vaginal",8,1,1,0,0,NA,NA,NA,84.5037231,"male",1
+"288",84.5039978,84.5910034,32,7.19999695,250,"black",1410,32,"born at Duke",0,4,0,0,0,"vaginal",2,1,0,0,0,"absent","absent","absent",84.5064697,"female",0
+"289",84.5090027,84.526001,6,7.3599968,208,"black",1335,30,"born at Duke",0,3,0,1,1,"vaginal",7,0,0,0,0,"absent","absent","absent",84.5119629,"male",0
+"290",84.5169983,84.5670013,18,6.88999939,91,"white",1115,28,"born at Duke",0,0,1,0,0,"abdominal",1,1,0,0,0,"absent","absent","absent",84.5201416,"female",0
+"291",84.5339966,84.5419998,3,NA,306,"white",980,27,"born at Duke",0,NA,0,NA,NA,"vaginal",3,1,1,0,0,"definite","definite","absent",84.5365601,"female",1
+"292",84.5390015,84.5780029,14,7.25999832,233,"white",1240,31,"born at Duke",0,7,0,1,1,"vaginal",8,0,0,0,0,"absent","absent","absent",84.5420532,"female",0
+"293",84.5419998,84.697998,57,6.97999954,244,"black",1200,29,"transported",0,NA,NA,NA,NA,"vaginal",NA,1,0,0,1,"definite","definite","absent",84.5447998,"female",0
+"294",84.5449982,NA,NA,NA,NA,"black",1500,40,"transported",0,NA,NA,NA,NA,"abdominal",5,0,1,0,0,NA,NA,NA,84.5475464,"male",0
+"295",84.5479965,84.5970001,18,7.32999802,216,"black",1110,33,"transported",0,4,0,0,0,"vaginal",2,0,0,0,0,"absent","absent","absent",84.550293,"female",0
+"296",84.5589981,84.9309998,136,7.07999802,142,"black",950,26,"transported",0,NA,0,NA,NA,"vaginal",6,1,0,1,1,"absent","absent","absent",84.5612183,"male",0
+"297",84.560997,84.7559967,71,7.29999924,190,"black",1000,26,"born at Duke",0,7,NA,1,0,"vaginal",5,1,0,0,1,"absent","absent","absent",84.5639648,"male",0
+"298",84.5690002,84.6520004,30,7.17999649,260,"black",1000,28,"born at Duke",0,4,NA,0,0,"abdominal",2,1,0,0,0,"absent","absent","absent",84.5722046,"male",0
+"299",84.5719986,84.6760025,38,7.33999634,179,"white",1320,30,"born at Duke",0,NA,0,1,1,"vaginal",7,0,0,0,0,NA,NA,NA,84.5748901,"female",0
+"300",84.5719986,84.6350021,23,7.38999939,160,"white",1480,32,"born at Duke",1,4,NA,0,0,"vaginal",6,0,0,0,0,NA,NA,NA,84.5748901,"female",0
+"301",84.5749969,84.6380005,23,7.1099968,116,"white",970,27,"born at Duke",0,102,NA,1,1,"vaginal",4,1,1,1,0,"possible","definite","absent",84.5776367,"male",1
+"302",84.5800018,84.6190033,14,7.17999649,302,"black",1420,29,"born at Duke",0,20,NA,0,0,"vaginal",6,1,0,0,0,NA,NA,NA,84.5831299,"male",0
+"303",84.5970001,84.6350021,14,7.37999725,273,"black",1480,32,"born at Duke",0,3,NA,1,1,"vaginal",7,0,0,0,0,"absent","absent","absent",84.5995483,"male",0
+"304",84.6080017,84.7200012,41,7,254,"white",900,26,"born at Duke",0,4,NA,0,0,"abdominal",2,1,0,0,0,"absent","absent","absent",84.6105347,"male",0
+"305",84.6210022,84.6760025,20,6.8599968,131,"black",625,24,"born at Duke",0,3,0,0,0,"vaginal",3,1,0,0,NA,"absent","definite","definite",84.6242065,"male",1
+"306",84.6210022,84.6760025,20,7.20999908,188,"white",1480,32,"born at Duke",0,10,NA,0,1,"vaginal",3,1,0,0,0,NA,NA,NA,84.6242065,"female",0
+"307",84.6299973,84.6949997,24,7.12999725,222,"white",1420,31,"born at Duke",0,NA,NA,1,0,"vaginal",6,0,0,0,0,NA,NA,NA,84.6323853,"female",0
+"308",84.6380005,84.6740036,13,7.07999802,178,"black",780,26,"transported",0,NA,0,NA,NA,"abdominal",4,1,1,1,0,"definite","definite","absent",84.640625,"male",1
+"309",84.6380005,84.7149963,28,7.37999725,319,"black",1160,28,"born at Duke",0,2,NA,1,0,"vaginal",8,0,0,0,0,NA,NA,NA,84.640625,"female",0
+"310",84.6409988,84.7040024,23,7.15999985,302,"black",1000,29,"born at Duke",0,3,NA,1,0,"vaginal",6,0,0,0,0,NA,NA,NA,84.6433716,"male",0
+"311",84.6429977,84.7860031,52,NA,220,"black",1440,32,"born at Duke",0,10,NA,1,0,"vaginal",7,1,0,0,0,NA,NA,NA,84.6461182,"male",0
+"312",84.6679993,84.6679993,-2,NA,272,"black",745,25,"born at Duke",0,6,NA,0,0,"vaginal",2,1,0,0,0,NA,NA,NA,84.6707153,"male",1
+"313",84.6760025,84.6819992,2,7.02999878,107,NA,1025,29,"transported",0,NA,NA,NA,NA,"vaginal",3,1,0,0,0,"definite","definite","definite",84.6789551,"male",1
+"314",84.6790009,84.8300018,55,7.06999969,234,"white",880,27,"born at Duke",0,0,NA,0,0,"abdominal",8,1,0,0,1,"absent","absent","absent",84.6817017,"female",0
+"315",84.6819992,84.8379974,57,7.17999649,157,"white",1200,31,"born at Duke",0,0,NA,0,0,"abdominal",5,1,0,0,0,"absent","absent","absent",84.6844482,"male",0
+"316",84.6839981,84.7419968,21,7.32999802,302,"black",1390,31,"born at Duke",0,NA,NA,1,0,"vaginal",4,0,0,0,0,"absent","absent","absent",84.6871948,"female",0
+"317",84.6869965,NA,NA,7.17999649,181,"black",1220,31,"transported",0,NA,NA,NA,NA,"vaginal",7,1,0,1,0,"absent","absent","absent",84.6898804,"male",0
+"318",84.6930008,84.8239975,48,7.22999954,199,"white",1470,31,"transported",0,NA,NA,NA,NA,"vaginal",8,1,0,1,0,"absent","absent","absent",84.6953735,"male",0
+"319",84.7060013,84.7360001,11,7.31999969,207,"black",1380,33,"born at Duke",0,1,NA,0,0,"abdominal",5,0,0,0,0,"absent","absent","absent",84.7090454,"female",0
+"320",84.7060013,84.7389984,12,7.48999786,278,"black",1500,34,"born at Duke",0,4,NA,0,0,"vaginal",8,0,0,0,0,NA,NA,NA,84.7090454,"male",0
+"321",84.7149963,84.8079987,34,7.32999802,365,"black",1110,29,"born at Duke",0,NA,0,1,0,"vaginal",9,0,0,0,0,"absent","absent","absent",84.7172852,"male",0
+"322",84.7229996,84.8270035,38,7.30999756,150,"white",920,29,"born at Duke",0,2,NA,0,0,"abdominal",2,1,0,0,0,"absent","absent","absent",84.7255249,"female",0
+"323",84.7200012,85.1139984,144,7.18999863,134,"black",1020,28,"transported",0,NA,NA,NA,NA,"vaginal",1,1,1,1,1,"definite","absent","absent",84.7227783,"male",1
+"324",84.7360001,84.7689972,12,7.14999771,204,"black",1250,29,"born at Duke",0,NA,0,NA,NA,"abdominal",5,1,1,1,NA,"definite","definite","absent",84.7391968,"male",1
+"325",84.7389984,84.7580032,7,7.30999756,284,"black",1440,32,"born at Duke",1,19,0,1,0,"abdominal",7,0,0,0,0,"absent","absent","absent",84.7419434,"male",0
+"326",84.7470016,84.8619995,42,7.16999817,257,"black",1200,28,"born at Duke",0,NA,0,1,1,"abdominal",8,1,1,0,0,"absent","absent","absent",84.7501221,"male",0
+"327",84.7470016,NA,NA,NA,120,"white",1580,31,"transported",0,NA,0,NA,NA,"abdominal",3,1,1,0,0,"absent","absent","absent",84.7501221,"female",0
+"328",84.7580032,84.8209991,23,7.2899971,329,"black",920,29,"born at Duke",0,0,0,1,0,"abdominal",7,1,0,0,0,"absent","absent","absent",84.7611084,"female",0
+"329",84.7689972,84.848999,29,7.22999954,257,"black",1320,31,"born at Duke",0,NA,0,0,0,"vaginal",5,0,0,0,0,NA,NA,NA,84.7720337,"female",0
+"330",84.7720032,84.8320007,22,7.22999954,242,"black",1200,29,"born at Duke",0,0,1,0,0,"abdominal",1,1,0,1,0,NA,NA,NA,84.7747803,"male",0
+"331",84.7750015,84.9089966,49,7.11999893,155,"black",850,27,"transported",0,11,0,1,NA,"vaginal",3,1,0,0,0,"absent","absent","absent",84.7775269,"female",0
+"332",84.7799988,84.9580002,65,7.26999664,145,"black",1000,28,"born at Duke",0,NA,0,NA,NA,"vaginal",2,1,0,0,0,"absent","absent","absent",84.78302,"female",0
+"333",84.7939987,84.9280014,49,7.06999969,240,"white",1120,30,"born at Duke",0,0,1,0,0,"abdominal",9,0,1,0,0,"possible","absent","absent",84.7966919,"female",0
+"334",84.802002,84.9420013,51,7.20999908,106,"black",980,33,"born at Duke",0,0,1,0,0,"abdominal",6,0,0,0,0,NA,NA,NA,84.8048706,"female",0
+"335",84.8239975,84.8410034,6,6.96999741,152,"white",1010,28,"transported",0,NA,NA,NA,NA,"abdominal",1,1,1,1,0,"absent","definite","absent",84.8267822,"female",1
+"336",84.8270035,84.8539963,10,7.33999634,206,"white",1480,32,"born at Duke",0,1,0,1,0,"abdominal",8,0,0,0,0,NA,NA,NA,84.8295288,"male",0
+"337",84.8300018,84.8710022,15,7.12999725,227,"black",1280,30,"born at Duke",1,0,0,1,0,"abdominal",4,1,0,0,0,"absent","absent","absent",84.8322754,"female",0
+"338",84.8410034,84.9660034,46,7.17999649,86,"black",980,28,"transported",0,NA,0,NA,NA,"vaginal",NA,1,0,0,1,"absent","definite","absent",84.8432007,"female",1
+"339",84.8600006,84.8619995,1,6.69999695,NA,"white",800,27,"transported",0,NA,NA,NA,NA,"abdominal",1,1,1,0,0,NA,NA,NA,84.8623657,"male",1
+"340",84.8710022,84.9499969,29,7.25999832,82,"white",1260,35,"born at Duke",1,8,0,0,0,"vaginal",7,0,1,0,0,"absent","absent","absent",84.8733521,"female",0
+"341",84.8789978,84.901001,8,7.25,67,"black",1300,29,"born at Duke",0,4,0,0,0,"vaginal",1,1,1,0,0,"absent","definite","absent",84.8815308,"female",1
+"342",84.8840027,85.1279984,89,6.92999649,125,"black",820,27,"born at Duke",0,8,0,1,0,"vaginal",7,1,0,1,1,"absent","absent","absent",84.8870239,"male",0
+"343",84.887001,85.125,87,7.20999908,212,"white",770,27,"born at Duke",0,0,1,0,0,"abdominal",5,1,0,1,1,"definite","absent","absent",84.8897705,"male",0
+"344",84.8929977,84.9059982,5,7.3599968,308,"black",1300,29,"born at Duke",0,3,0,1,0,"abdominal",9,0,0,1,0,NA,NA,NA,84.8952637,"female",0
+"345",84.9029999,84.987999,31,7.3599968,238,"black",1480,31,"born at Duke",0,0,1,0,0,"abdominal",8,0,0,0,0,"absent","absent","absent",84.906189,"female",0
+"346",84.9029999,84.9229965,7,7.19999695,259,"black",1480,32,"born at Duke",0,16,0,0,1,"vaginal",5,0,0,0,0,NA,NA,NA,84.906189,"female",0
+"347",84.9059982,84.939003,12,7.38999939,122,"black",1260,35,"born at Duke",0,0,0,0,0,"abdominal",6,0,0,0,0,NA,NA,NA,84.9089355,"male",0
+"348",84.9059982,85.0130005,39,7.11999893,207,"black",1280,29,"born at Duke",0,NA,NA,NA,NA,"abdominal",3,1,0,0,0,"definite","absent","absent",84.9089355,"male",1
+"349",84.9059982,84.9120026,2,7.19999695,196,"black",400,24,"transported",0,NA,NA,NA,NA,"vaginal",5,1,0,0,NA,NA,NA,NA,84.9089355,"female",1
+"350",84.9089966,85.038002,47,7.26999664,263,"white",760,25,"born at Duke",0,9,0,0,0,"vaginal",7,0,0,0,0,"absent","absent","absent",84.9116821,"female",0
+"351",84.9089966,84.9449997,13,7.26999664,173,NA,1380,29,"born at Duke",0,NA,NA,1,0,"abdominal",4,1,0,0,0,NA,NA,NA,84.9116821,"female",0
+"352",84.9199982,85.314003,144,7.14999771,100,"black",620,27,"born at Duke",0,0,0,0,0,"abdominal",5,1,0,1,1,"definite","absent","absent",84.9226074,"male",1
+"353",84.9280014,84.9580002,11,7.23999786,286,"black",1030,28,"born at Duke",0,NA,0,1,0,"vaginal",7,0,0,0,0,"absent","absent","absent",84.9308472,"male",1
+"354",84.9309998,85.0350037,38,7.12999725,336,"black",760,26,"born at Duke",0,40,NA,0,0,"abdominal",2,1,1,0,1,"definite","definite","absent",84.9335938,"female",1
+"355",84.939003,84.9749985,13,7.33999634,175,"white",1200,32,"born at Duke",1,0,0,NA,NA,"abdominal",1,0,0,0,0,"absent","absent","absent",84.9417725,"female",0
+"356",84.9420013,85.0319977,33,6.88999939,258,"black",1000,26,"born at Duke",0,NA,0,NA,NA,"vaginal",6,0,0,0,0,"absent","absent","absent",84.944519,"female",0
+"357",84.9420013,85.1360016,71,7.20999908,198,"oriental",1120,27,"born at Duke",0,NA,0,0,1,"abdominal",6,1,1,1,1,"absent","absent","absent",84.944519,"male",0
+"358",84.9530029,85.038002,31,7.0399971,89,"black",980,29,"born at Duke",0,0,1,0,0,"abdominal",2,1,0,0,0,"definite","absent","absent",84.9555054,"male",0
+"359",84.9690018,85.0159988,17,7.27999878,242,NA,1400,30,"transported",0,NA,0,NA,NA,"vaginal",3,0,0,0,0,NA,NA,NA,84.9719238,"female",0
+"360",84.9769974,85.1989975,81,7.30999756,170,"black",920,28,"born at Duke",0,NA,0,NA,NA,"vaginal",2,0,0,1,0,"absent","absent","absent",84.9801025,"female",0
+"361",84.9830017,85.0019989,7,7.3599968,256,"black",1250,30,"transported",0,NA,0,NA,NA,"vaginal",8,0,0,0,0,NA,NA,NA,84.9855957,"female",0
+"362",84.9860001,85.0899963,38,7.26999664,306,"black",1360,29,"born at Duke",0,10,0,0,0,"vaginal",6,1,0,0,0,"absent","absent","absent",84.9883423,"female",0
+"363",84.987999,85.1119995,45,7.08999634,44,"black",540,25,"born at Duke",0,7,0,0,0,"vaginal",1,1,0,1,1,"absent","definite","absent",84.9910889,"female",1
+"364",84.9990005,85.1169968,43,7.09999847,132,"white",960,30,"born at Duke",0,NA,0,NA,NA,"vaginal",2,1,0,0,0,"absent","absent","possible",85,"female",0
+"365",85.0159988,85.0270004,4,7.09999847,274,"black",1365,30,"born at Duke",1,NA,0,1,0,"vaginal",1,0,0,0,0,NA,NA,NA,85.0164185,"female",0
+"366",85.0159988,85.0270004,4,7.36999893,298,"black",1500,30,"born at Duke",1,NA,0,1,0,"vaginal",7,0,0,0,0,NA,NA,NA,85.0164185,"female",0
+"367",85.8509979,85.0490036,-293,7.31999969,215,"white",1420,30,"born at Duke",0,NA,0,1,0,"vaginal",6,0,0,0,0,NA,NA,NA,85.8514404,"male",0
+"368",85.0240021,85.1470032,45,7.22999954,80,"black",1230,33,"transported",0,5,NA,NA,NA,"vaginal",8,0,0,0,0,"absent","absent","absent",85.0245972,"male",0
+"369",85.0270004,85.1719971,53,6.89999771,203,"black",840,30,"born at Duke",0,NA,1,0,0,"vaginal",3,0,0,0,0,"definite","absent","absent",85.0273438,"female",0
+"370",85.0289993,85.2809982,92,7.08999634,206,"white",600,25,"born at Duke",0,NA,0,0,0,"vaginal",1,1,1,1,1,"absent","definite","definite",85.0300903,"male",0
+"371",85.0350037,85.0810013,17,7.23999786,178,"white",1220,30,"transported",0,NA,1,NA,NA,"vaginal",5,0,0,0,0,NA,NA,NA,85.0355835,"male",0
+"372",85.0400009,85.2429962,74,7.31999969,214,"black",740,28,"born at Duke",0,0,0,1,1,"abdominal",9,0,0,0,0,"definite","absent","absent",85.0410156,"male",0
+"373",85.0429993,85.5090027,170,7.18999863,51,"black",820,28,"born at Duke",0,0,0,1,0,"abdominal",5,1,0,1,1,"definite","absent","absent",85.0437622,"male",0
+"374",85.0459976,85.4950027,164,7.13999939,259,"white",790,28,"born at Duke",0,0,0,0,0,"abdominal",1,1,0,0,1,"definite","absent","absent",85.0465088,"male",0
+"375",85.0680008,85.2129974,53,7.2899971,271,"white",1115,28,"born at Duke",0,5,0,1,1,"abdominal",6,1,0,0,1,"absent","absent","absent",85.0684204,"male",0
+"376",85.086998,85.1750031,32,7.27999878,178,"black",1090,28,"transported",0,2,NA,0,1,"abdominal",7,1,0,0,0,NA,NA,NA,85.0875854,"male",0
+"377",85.0950012,85.1940002,36,7.18999863,150,"white",920,27,"transported",0,NA,0,NA,NA,"vaginal",4,1,1,1,0,"possible","definite","definite",85.0957642,"female",0
+"378",85.1009979,85.1090012,3,7.30999756,351,"white",1460,29,"born at Duke",0,NA,NA,NA,NA,"abdominal",9,0,0,0,0,NA,NA,NA,85.1012573,"male",0
+"379",85.1029968,85.1800003,28,7.30999756,274,"black",1020,29,"born at Duke",0,7,1,0,0,"vaginal",8,0,0,0,0,"definite","absent","absent",85.1040039,"male",0
+"380",85.1060028,85.1910019,31,7.25,194,"white",1280,30,"born at Duke",0,4,0,0,0,"abdominal",2,1,0,0,0,"absent","absent","absent",85.1067505,"female",0
+"381",85.1169968,85.2949982,65,7.12999725,132,"white",880,27,"born at Duke",0,0,0,1,1,"abdominal",8,1,1,0,1,"absent","absent","absent",85.1176758,"female",0
+"382",85.1200027,85.2460022,46,7.16999817,158,"white",1140,29,"born at Duke",0,14,0,1,1,"vaginal",6,1,0,1,0,"absent","absent","absent",85.1204224,"male",0
+"383",85.1360016,85.1800003,16,7.0399971,70,"black",500,25,"born at Duke",0,5,1,0,0,"abdominal",7,1,1,1,NA,"absent","absent","absent",85.1368408,"female",1
+"384",85.1419983,85.2460022,38,7.18999863,235,"white",1210,31,"born at Duke",1,0,0,1,1,"abdominal",8,0,0,0,0,"absent","absent","absent",85.142334,"female",0
+"385",85.1689987,85.2730026,38,7.25999832,241,"black",1180,29,"born at Duke",0,3,0,1,1,"abdominal",8,0,0,0,0,"absent","absent","absent",85.1697388,"male",0
+"386",85.1719971,85.3470001,64,7.20999908,73,"black",760,28,"born at Duke",0,0,0,1,0,"abdominal",5,1,0,0,0,"definite","absent","absent",85.1724243,"female",0
+"387",85.1750031,85.276001,37,7.21999741,285,"black",1030,28,"born at Duke",0,0,1,1,0,"abdominal",6,1,0,0,0,"absent","absent","absent",85.1751709,"female",0
+"388",85.1750031,85.2699966,35,7.32999802,126,"white",1290,34,"born at Duke",1,0,0,0,0,"abdominal",3,0,0,0,0,"definite","absent","absent",85.1751709,"male",0
+"389",85.1800003,85.1959991,6,7.36999893,220,"white",1490,32,"born at Duke",0,9,NA,NA,NA,"vaginal",6,0,0,0,0,"absent","absent","absent",85.1806641,"female",0
+"390",85.1849976,85.4759979,106,7.17999649,133,"black",800,29,"born at Duke",0,0,1,1,0,"abdominal",7,1,0,0,1,"possible","absent","absent",85.1861572,"female",0
+"391",85.1880035,85.1880035,-2,7.07999802,107,"black",600,25,"born at Duke",0,NA,0,0,0,"abdominal",0,1,0,0,NA,"absent","absent","absent",85.1889038,"female",1
+"392",85.1880035,85.3219986,49,7.11999893,186,"white",1000,27,"born at Duke",0,46,0,1,0,"abdominal",4,1,1,1,1,"definite","absent","absent",85.1889038,"female",1
+"393",85.1940002,85.1940002,-2,7,190,"white",660,25,"born at Duke",0,12,0,0,1,"vaginal",3,1,0,0,NA,"definite","absent","absent",85.1943359,"male",1
+"394",85.1940002,85.8119965,226,7.11999893,99,"black",1500,32,"born at Duke",0,0,1,0,0,"abdominal",0,1,0,1,1,"absent","absent","absent",85.1943359,"male",0
+"395",85.2020035,85.2460022,16,7.25,210,"white",1480,31,"born at Duke",0,0,1,1,0,"abdominal",4,1,0,0,0,"absent","absent","absent",85.2025757,"male",0
+"396",85.2020035,85.3089981,39,7.26999664,144,"black",1370,30,"born at Duke",0,0,1,0,0,"abdominal",1,1,0,0,0,"absent","absent","absent",85.2025757,"male",0
+"397",85.2129974,85.2160034,1,6.81999969,204,"black",745,25,"born at Duke",0,NA,NA,NA,NA,"vaginal",1,1,0,0,0,"definite","definite","definite",85.213501,"male",1
+"398",85.223999,85.3389969,42,7.17999649,230,"white",1420,28,"born at Duke",0,30,0,0,0,"vaginal",6,0,0,0,0,"absent","absent","absent",85.2244873,"male",0
+"399",85.2350006,85.2350006,-2,7.00999832,175,"white",510,24,"born at Duke",1,3,0,0,0,"vaginal",1,1,1,0,NA,"definite","definite","absent",85.2354126,"female",1
+"400",85.237999,85.2429962,2,6.93999863,48,"black",1400,28,"born at Duke",0,3,0,0,0,"abdominal",2,1,1,0,0,"definite","definite","definite",85.2381592,"male",1
+"401",85.237999,85.4100037,63,7.22999954,126,"black",900,27,"born at Duke",0,0,1,0,0,"abdominal",1,1,0,0,0,"absent","absent","absent",85.2381592,"female",0
+"402",85.2509995,85.3089981,21,7.27999878,56,"black",1400,30,"born at Duke",0,NA,0,1,0,"vaginal",8,0,0,0,0,NA,NA,NA,85.2518311,"male",0
+"403",85.2590027,85.3310013,26,7.15999985,169,"black",820,25,"born at Duke",0,31,0,1,0,"vaginal",3,1,1,1,0,"absent","definite","absent",85.2600708,"male",1
+"404",85.2590027,85.4069977,54,7.04999924,168,"black",740,25,"born at Duke",0,2,0,0,1,"vaginal",1,1,1,1,1,"absent","definite","possible",85.2600708,"female",1
+"405",85.2730026,85.689003,152,6.8599968,96,"black",575,25,"transported",0,2,0,NA,NA,"vaginal",2,1,0,0,1,"definite","possible","absent",85.2737427,"male",0
+"406",85.2730026,85.4290009,57,7.23999786,250,"black",670,26,"transported",1,24,NA,NA,NA,"vaginal",4,0,0,0,0,"absent","absent","absent",85.2737427,"female",0
+"407",85.2730026,85.4290009,57,7.14999771,187,"black",910,26,"transported",1,24,NA,NA,NA,"vaginal",1,1,1,0,1,"absent","absent","absent",85.2737427,"male",0
+"408",85.2730026,85.4869995,78,7.02999878,198,"black",940,26,"born at Duke",0,6,0,0,0,"vaginal",1,1,0,1,1,"possible","absent","absent",85.2737427,"female",0
+"409",85.276001,85.3610001,31,7.21999741,189,"black",1245,30,"born at Duke",1,0,0,0,0,"abdominal",4,1,0,0,0,NA,NA,NA,85.2764893,"male",0
+"410",85.276001,85.3610001,31,7.31999969,102,"black",940,30,"born at Duke",1,0,0,0,0,"abdominal",3,1,0,0,0,"absent","absent","absent",85.2764893,"female",0
+"411",85.2870026,85.3059998,7,NA,290,"black",1140,30,"born at Duke",0,0,1,1,0,"vaginal",7,0,0,0,0,"definite","absent","absent",85.2874146,"female",0
+"412",85.3000031,85.3769989,28,7.02999878,121,"white",675,25,"born at Duke",0,2,0,0,0,"vaginal",5,1,0,0,NA,"definite","definite","absent",85.3011475,"male",1
+"413",85.314003,85.3960037,30,7.33999634,NA,"black",1340,31,"born at Duke",0,0,0,1,0,"abdominal",8,0,0,0,0,NA,NA,NA,85.3148193,"female",0
+"414",85.3280029,85.4459991,43,7.26999664,175,"black",1460,31,"born at Duke",0,0,1,0,0,"abdominal",1,1,0,0,0,"definite","definite","absent",85.3284912,"female",0
+"415",85.3359985,85.6669998,121,7.09999847,123,"black",565,25,"transported",0,NA,0,NA,NA,"vaginal",2,1,0,0,1,"definite","possible","absent",85.336731,"male",0
+"416",85.3420029,85.3499985,3,7.37999725,271,"white",1450,29,"born at Duke",0,55,0,1,1,"vaginal",5,0,0,0,0,NA,NA,NA,85.3422241,"female",0
+"417",85.3440018,85.4670029,45,7.29999924,219,"black",1320,30,"born at Duke",0,5,0,0,0,"vaginal",8,0,0,0,0,"absent","absent","possible",85.3449097,"male",0
+"418",85.3580017,85.3659973,3,6.80999756,43,"black",710,25,"transported",0,NA,0,NA,NA,"vaginal",2,1,1,0,0,"absent","definite","definite",85.3586426,"male",1
+"419",85.3690033,85.413002,16,7.31999969,297,"white",1230,28,"born at Duke",0,4,0,1,1,"abdominal",7,0,0,0,0,"absent","absent","absent",85.3695679,"female",0
+"420",85.3769989,85.5250015,54,7.21999741,322,"white",920,26,"born at Duke",0,0,0,1,0,"abdominal",6,0,0,0,0,"absent","absent","absent",85.3778076,"female",0
+"421",85.3799973,85.4869995,39,7.20999908,286,"white",1340,28,"born at Duke",0,11,0,1,1,"abdominal",9,0,0,0,0,"absent","absent","absent",85.3805542,"female",0
+"422",85.3909988,85.4649963,27,7.02999878,107,"black",1300,29,"born at Duke",0,7,0,0,0,"vaginal",2,1,0,1,0,"absent","absent","absent",85.3914795,"male",0
+"423",85.3939972,85.5139999,44,7.3599968,191,"white",1260,31,"born at Duke",0,2,0,0,0,"abdominal",7,0,0,0,0,NA,NA,NA,85.3942261,"male",0
+"424",85.4020004,85.4209976,7,7.30999756,248,"white",1500,32,"transported",0,4,0,NA,NA,"vaginal",9,0,0,0,0,"definite","absent","possible",85.4024048,"male",0
+"425",85.4049988,85.6149979,77,7.25999832,219,"black",990,28,"transported",0,14,NA,NA,NA,"abdominal",5,1,0,0,0,"absent","absent","possible",85.4051514,"male",0
+"426",85.4069977,85.5719986,60,NA,NA,"native American",1060,28,"born at Duke",0,2,0,1,0,"vaginal",5,1,0,1,1,"absent","definite","absent",85.4078979,"male",0
+"427",85.4100037,85.6729965,96,7.3599968,208,"white",930,26,"born at Duke",0,6,0,1,1,"abdominal",6,0,0,1,0,"absent","absent","absent",85.4106445,"female",0
+"428",85.4240036,85.4570007,12,7.32999802,249,"black",1420,31,"born at Duke",1,18,0,1,0,"vaginal",7,0,0,0,0,"definite","absent","absent",85.4243164,"female",0
+"429",85.4240036,85.4589996,13,7.12999725,206,"black",1420,31,"born at Duke",1,18,0,1,0,"vaginal",7,1,1,0,0,"definite","absent","absent",85.4243164,"female",0
+"430",85.4260025,85.5139999,32,7.31999969,202,"black",1360,32,"born at Duke",0,0,1,0,0,"abdominal",7,0,0,0,0,NA,NA,NA,85.427063,"female",0
+"431",85.4369965,85.5630035,46,6.92999649,176,"black",905,27,"born at Duke",0,9,0,0,1,"vaginal",2,1,0,0,0,"absent","absent","absent",85.4380493,"female",0
+"432",85.4369965,85.8590012,154,7.05999756,122,"black",850,26,"born at Duke",0,13,0,0,0,"vaginal",5,1,1,1,1,"definite","absent","absent",85.4380493,"male",1
+"433",85.4400024,85.5820007,52,7.29999924,95,"white",980,27,"born at Duke",0,NA,NA,1,1,"abdominal",2,0,0,0,0,"absent","absent","absent",85.4407349,"male",0
+"434",85.4459991,85.4869995,15,7.25,379,"black",1500,31,"born at Duke",0,104,NA,1,0,"abdominal",1,0,0,0,0,"absent","absent","possible",85.446228,"male",0
+"435",85.4540024,NA,NA,7.07999802,311,"white",860,26,"born at Duke",0,NA,0,NA,NA,NA,7,1,0,0,1,"absent","absent","definite",85.4544678,"male",0
+"436",85.4589996,85.6760025,79,7.31999969,290,"black",740,27,"born at Duke",0,3,NA,1,0,"abdominal",5,1,0,0,1,"possible","absent","absent",85.4598999,"male",0
+"437",85.4649963,85.5090027,16,7.31999969,285,"black",1460,30,"born at Duke",0,9,NA,0,0,"vaginal",7,0,0,0,0,"absent","absent","absent",85.4653931,"female",0
+"438",85.4670029,85.6839981,79,7.29999924,154,"white",860,26,"born at Duke",0,60,NA,0,0,"vaginal",7,0,0,1,1,"absent","absent","absent",85.4681396,"female",0
+"439",85.4729996,85.7060013,85,7.07999802,148,"white",1130,31,"born at Duke",0,5,NA,1,0,"abdominal",1,1,1,0,1,"absent","definite","absent",85.4736328,"male",0
+"440",85.4779968,85.8970032,153,7.20999908,334,"black",940,29,"transported",0,NA,NA,NA,NA,"abdominal",5,1,0,0,1,"absent","possible","definite",85.4790649,"male",1
+"441",85.4919968,85.6210022,47,7.16999817,179,"black",1200,32,"born at Duke",0,0,NA,0,0,"abdominal",5,1,0,0,0,"absent","absent","absent",85.4927979,"female",0
+"442",85.5090027,85.6559982,54,7.12999725,228,"white",960,28,"born at Duke",0,0,1,0,0,"abdominal",7,1,0,0,1,"possible","absent","absent",85.5092163,"female",0
+"443",85.5299988,85.5930023,23,7.37999725,256,"black",1120,28,"born at Duke",0,0,0,0,0,"abdominal",7,0,0,0,0,"possible","absent","absent",85.5311279,"female",0
+"444",85.5250015,85.6920013,61,7.09999847,232,"white",1170,32,"born at Duke",0,4,0,1,0,"abdominal",1,0,0,0,0,"definite","absent","definite",85.5256348,"female",0
+"445",85.5299988,85.6210022,33,7.2899971,144,"black",1200,35,"born at Duke",0,0,0,0,0,"abdominal",1,0,0,0,0,"absent","absent","absent",85.5311279,"male",0
+"446",85.5390015,85.6559982,43,7.33999634,462,"black",1255,29,"born at Duke",0,2,0,1,1,"vaginal",8,0,0,0,0,"definite","absent","absent",85.5393066,"male",0
+"447",85.5469971,85.8339996,105,7.18999863,207,"black",805,29,"transported",0,NA,0,NA,NA,"vaginal",NA,1,0,0,0,"absent","definite","definite",85.5475464,"female",0
+"448",85.5660019,85.6149979,18,7.19999695,131,"black",460,23,"born at Duke",0,174,0,0,0,"vaginal",1,1,1,1,NA,"absent","definite","definite",85.5667114,"female",1
+"449",85.5690002,85.8450012,101,7.21999741,85,"black",1070,29,"born at Duke",0,0,1,0,0,"abdominal",2,1,0,0,1,"absent","absent","possible",85.569458,"male",0
+"450",85.5849991,85.6699982,31,7.2899971,187,"black",1400,31,"born at Duke",1,192,1,1,1,"abdominal",6,1,0,0,0,"absent","absent","absent",85.5858765,"male",0
+"451",85.5930023,85.8259964,85,7.16999817,212,"black",910,28,"transported",0,9,0,NA,NA,"vaginal",6,1,0,0,1,"definite","possible","absent",85.5940552,"female",0
+"452",85.5960007,85.7389984,52,7.32999802,329,"black",1100,28,"born at Duke",0,NA,0,1,1,"vaginal",7,0,0,0,0,"definite","absent","absent",85.5968018,"male",1
+"453",85.6039963,85.637001,12,7.48999786,332,"black",1400,33,"born at Duke",0,8,0,1,0,"vaginal",5,0,0,0,0,"absent","absent","absent",85.6050415,"female",0
+"454",85.6149979,85.7109985,35,7.33999634,86,"black",480,23,"born at Duke",0,NA,0,0,0,"vaginal",7,1,0,1,1,"definite","definite","absent",85.6159668,"female",1
+"455",85.6179962,85.8119965,71,7.18999863,119,"white",1280,30,"born at Duke",0,NA,0,1,0,"abdominal",7,1,1,0,1,"definite","absent","absent",85.6187134,"male",0
+"456",85.6240005,85.7689972,53,NA,NA,"white",1145,28,NA,0,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,85.6242065,"male",0
+"457",85.637001,85.7220001,31,7.34999847,275,"white",1160,31,"born at Duke",0,0,0,1,0,"abdominal",8,0,0,0,0,"definite","absent","absent",85.6378784,"male",0
+"458",85.637001,85.6589966,8,7.42999649,204,"white",1440,31,"born at Duke",0,5,0,1,0,"vaginal",8,0,0,0,0,"possible","absent","definite",85.6378784,"female",0
+"459",85.6589966,85.7190018,22,7.29999924,179,"white",1300,34,"born at Duke",1,8,1,1,0,"vaginal",7,1,0,0,0,"absent","absent","absent",85.65979,"male",0
+"460",85.6669998,85.8860016,80,7.19999695,140,"black",805,26,"born at Duke",0,24,0,1,0,"abdominal",3,1,0,0,1,"absent","absent","definite",85.6680298,"male",0
+"461",85.6729965,85.788002,42,7.12999725,99,"black",1140,28,"transported",0,NA,0,NA,NA,"vaginal",2,1,0,1,1,"definite","absent","absent",85.6734619,"male",0
+"462",85.6760025,85.7799988,38,7.21999741,301,"black",1060,28,"born at Duke",0,12,0,0,0,"vaginal",1,1,0,1,0,"absent","definite","absent",85.6762085,"male",0
+"463",85.6869965,85.7220001,13,7.13999939,314,"white",1500,31,"born at Duke",1,0,0,1,1,"abdominal",9,1,0,0,0,"absent","absent","absent",85.6871948,"male",0
+"464",85.6869965,85.7409973,20,7.08999634,394,"white",1440,31,"born at Duke",1,0,0,1,1,"abdominal",8,1,0,0,0,"absent","absent","absent",85.6871948,"female",0
+"465",85.6869965,85.7470016,22,7.1099968,225,"white",1440,31,"born at Duke",1,0,0,1,1,"abdominal",7,1,0,0,0,"absent","absent","absent",85.6871948,"female",0
+"466",85.6869965,85.7220001,13,7.25,215,"white",1400,31,"born at Duke",1,0,0,1,1,"abdominal",9,1,0,0,0,"absent","absent","absent",85.6871948,"male",0
+"467",85.689003,85.7060013,6,7.40999985,238,"black",1480,30,"born at Duke",0,2,0,0,0,"abdominal",1,0,0,0,0,NA,NA,NA,85.6898804,"female",0
+"468",85.7249985,85.822998,36,7.13999939,221,"black",1340,29,"born at Duke",0,0,0,0,0,"abdominal",3,1,0,0,0,"definite","absent","absent",85.7255249,"male",0
+"469",85.7360001,85.7850037,18,7.26999664,260,"white",1120,29,"born at Duke",0,4,0,0,0,"abdominal",5,0,0,0,0,"absent","definite","definite",85.7364502,"male",0
+"470",85.7519989,85.822998,26,7.18999863,181,"white",900,27,"born at Duke",0,19,0,0,0,"vaginal",3,1,0,0,0,"definite","definite","absent",85.7528687,"male",0
+"471",85.7600021,85.8590012,36,7.15999985,94,"black",1370,32,"transported",0,23,0,NA,NA,"vaginal",4,1,0,0,0,"absent","absent","absent",85.7611084,"male",0
+"472",85.7710037,85.927002,57,7.37999725,121,"white",1290,31,"born at Duke",1,0,0,1,1,"abdominal",7,0,0,0,0,"absent","absent","absent",85.7720337,"male",0
+"473",85.7710037,86.0510025,102,7.34999847,254,"white",1230,31,"born at Duke",1,0,0,1,1,"abdominal",NA,1,0,0,1,"absent","absent","absent",85.7720337,"male",0
+"474",85.7770004,85.927002,55,7.38999939,225,"white",1450,32,"born at Duke",0,10,0,1,1,"vaginal",8,0,0,0,0,"definite","absent","absent",85.7775269,"female",0
+"475",85.7799988,85.8509979,26,7.30999756,251,"native American",1450,30,"born at Duke",0,NA,0,1,0,"vaginal",2,1,0,0,0,"definite","absent","absent",85.7802734,"male",0
+"476",85.7850037,85.822998,14,7.5,250,"native American",1220,32,"born at Duke",0,10,0,1,0,"vaginal",8,0,0,0,0,"definite","absent","absent",85.7857056,"male",0
+"477",85.7910004,85.8099976,7,7.39999771,269,"white",1450,31,"born at Duke",0,2,0,0,0,"abdominal",5,0,0,0,0,NA,NA,NA,85.7911987,"male",0
+"478",85.7929993,85.9929962,73,7.32999802,227,"black",1300,29,"born at Duke",0,6,0,0,0,"vaginal",6,1,0,0,0,"absent","definite","absent",85.7939453,"male",0
+"479",85.7959976,85.8450012,18,7.3599968,172,"black",1000,34,"born at Duke",0,10,1,0,0,"vaginal",2,0,0,0,0,"absent","absent","absent",85.7966919,"male",0
+"480",85.8040009,86.0810013,101,7.23999786,290,"white",1100,26,"born at Duke",0,3,0,1,0,"vaginal",4,1,0,1,1,"absent","definite","absent",85.8048706,"female",0
+"481",85.822998,85.8399963,6,NA,65,"white",1100,34,"born at Duke",1,5,0,0,0,"vaginal",8,0,0,0,0,"absent","absent","absent",85.8240356,"male",0
+"482",NA,NA,NA,7.3599968,236,"black",1100,30,"born at Duke",0,0,1,1,0,"abdominal",8,0,0,0,0,"absent","absent","absent",NA,"female",0
+"483",85.8730011,85.8840027,4,NA,NA,"black",1060,27,"born at Duke",0,0,0,1,0,"abdominal",NA,1,1,0,0,"definite","definite","definite",85.8733521,"male",1
+"484",86.8830032,86.0749969,-295,7.04999924,83,"white",1000,27,"born at Duke",0,20,0,1,0,"vaginal",5,1,1,1,1,"absent","definite","possible",86.8842773,"male",0
+"485",85.8860016,85.3000031,-214,7.01999664,171,"black",652,26,"transported",0,NA,0,NA,NA,"vaginal",5,1,0,1,1,"absent","definite","absent",85.8870239,"male",0
+"486",85.8970032,85.9929962,35,7.32999802,186,"black",1200,28,"born at Duke",1,22,0,1,0,"abdominal",1,0,0,0,0,"absent","definite","definite",85.8980103,"male",0
+"487",86.8970032,86.9049988,3,NA,NA,"black",1180,28,"born at Duke",1,0,0,0,0,"abdominal",5,1,1,0,0,"absent","definite","absent",86.8980103,"female",1
+"488",85.9110031,86.0780029,61,7.3599968,206,"black",920,27,"born at Duke",0,7,0,1,0,"vaginal",1,1,0,0,1,"definite","absent","absent",85.9116821,"male",0
+"489",85.9140015,85.9140015,-2,6.8599968,123,"black",880,27,"transported",0,0,NA,0,0,"abdominal",1,NA,0,0,NA,NA,NA,NA,85.9144287,"male",1
+"490",85.9160004,86.0670013,55,7.34999847,324,"black",1200,30,"born at Duke",0,0,0,1,0,"abdominal",1,0,0,0,0,"definite","absent","absent",85.9171753,"female",0
+"491",85.9250031,86.012001,32,7.31999969,308,"white",1160,31,"born at Duke",0,4,0,1,0,"vaginal",6,0,0,0,0,"absent","absent","absent",85.925354,"male",0
+"492",85.9440002,86.026001,30,7.47999954,254,"black",1280,32,"born at Duke",0,3,1,0,0,"vaginal",7,0,0,0,0,"possible","absent","absent",85.944519,"female",0
+"493",85.9550018,86.0699997,42,7.18999863,177,"white",1300,30,"transported",0,NA,0,NA,NA,"abdominal",1,1,0,1,0,"absent","absent","absent",85.9555054,"male",0
+"494",85.9710007,86.0309982,22,7.15999985,346,"black",1500,32,"transported",0,NA,0,NA,NA,"abdominal",7,1,0,0,0,"definite","absent","absent",85.9719238,"female",0
+"495",85.973999,86.1330032,58,6.94999695,120,"black",800,26,"transported",1,9,0,NA,NA,"vaginal",1,1,0,0,1,"definite","absent","absent",85.9746704,"male",0
+"496",85.973999,85.9789963,2,7.0399971,115,"black",830,26,"transported",1,9,0,NA,NA,"vaginal",3,1,0,0,NA,"absent","absent","absent",85.9746704,"male",1
+"497",85.9899979,86.0400009,18,7.32999802,211,"white",1170,29,"transported",1,NA,0,NA,NA,"vaginal",5,0,0,0,0,"absent","absent","absent",85.9910889,"female",0
+"498",85.9899979,86.0400009,18,7.21999741,142,"white",950,29,"transported",1,NA,0,NA,NA,"vaginal",5,0,0,0,0,"absent","absent","absent",85.9910889,"female",0
+"499",85.9990005,86.0009995,1,6.71999741,249,"white",1070,26,"transported",0,NA,NA,NA,NA,"abdominal",5,1,0,0,0,NA,NA,NA,86,"male",1
+"500",85.9990005,86.1740036,64,7.02999878,187,"black",900,29,"born at Duke",0,0,0,1,0,"abdominal",7,1,0,1,0,"definite","absent","absent",86,"female",0
+"501",86.0070038,86.1679993,59,7.09999847,112,"white",1075,27,"born at Duke",0,0,0,1,0,"abdominal",8,1,1,0,0,"definite","absent","absent",86.0081787,"male",0
+"502",86.0070038,86.1360016,47,6.91999817,225,"black",1120,27,"transported",0,17,0,NA,NA,"vaginal",8,1,0,1,1,"definite","absent","absent",86.0081787,"male",0
+"503",86.0100021,86.1900024,66,7.17999649,232,"black",760,26,"born at Duke",0,9,0,0,1,"abdominal",3,1,0,1,1,"absent","absent","absent",86.0109253,"male",0
+"504",86.0179977,86.1880035,62,6.95999908,201,"white",1260,27,"transported",0,NA,1,NA,NA,"vaginal",7,1,1,0,1,"definite","absent","definite",86.019104,"male",0
+"505",86.0210037,86.0309982,4,7.38999939,180,"black",1320,29,"born at Duke",0,2,0,0,0,"vaginal",8,0,0,0,0,"absent","absent","absent",86.0218506,"female",0
+"506",86.0210037,86.0230026,1,6.93999863,109,"black",1070,27,"transported",1,NA,0,NA,NA,"vaginal",NA,1,0,0,0,NA,NA,NA,86.0218506,"male",1
+"507",86.0370026,86.3300018,107,7.19999695,179,"black",760,27,"transported",0,1,0,0,0,"vaginal",1,1,0,1,1,"possible","absent","absent",86.038269,"male",0
+"508",86.0479965,86.2529984,75,7.08999634,43,"white",780,31,"born at Duke",0,0,0,0,0,"abdominal",1,1,0,1,1,"absent","definite","definite",86.0492554,"male",0
+"509",86.0530014,86.5350037,176,7.18999863,106,"black",990,27,"born at Duke",0,2,0,0,0,"vaginal",1,1,0,1,1,"absent","definite","possible",86.0547485,"male",0
+"510",86.0699997,86.5950012,192,6.98999786,242,"white",760,26,"transported",0,NA,0,NA,NA,"vaginal",NA,1,0,1,1,"absent","absent","absent",86.071167,"female",0
+"511",86.072998,86.1880035,42,7.26999664,222,"black",1100,34,"born at Duke",0,0,1,1,0,"abdominal",7,1,0,0,0,"absent","absent","absent",86.0739136,"male",0
+"512",86.0839996,86.1900024,39,7.17999649,75,"white",1100,30,"born at Duke",0,0,1,0,0,"abdominal",6,1,0,1,0,"definite","absent","possible",86.0848389,"male",0
+"513",86.0920029,86.197998,39,7.0399971,211,"black",940,29,"born at Duke",0,0,1,0,0,"abdominal",9,1,0,0,0,"absent","absent","absent",86.0930786,"male",0
+"514",86.0940018,86.1190033,9,7.30999756,114,"black",1250,31,"born at Duke",0,9,0,0,0,"vaginal",5,0,0,0,0,NA,NA,NA,86.0957642,"male",0
+"515",86.0999985,86.2669983,61,7.17999649,91,"black",870,30,"born at Duke",0,0,0,0,0,"abdominal",1,0,0,1,0,"possible","absent","possible",86.1012573,"female",0
+"516",86.1050034,86.1139984,3,7.40999985,175,"white",1400,33,"born at Duke",1,13,NA,0,0,"vaginal",6,0,0,0,0,NA,NA,NA,86.1067505,"male",0
+"517",86.1050034,86.1520004,17,7.25,180,"white",1480,33,"born at Duke",1,13,0,0,0,"vaginal",7,1,0,1,0,"definite","absent","absent",86.1067505,"male",0
+"518",86.1360016,86.8420029,258,7.1099968,103,"black",740,25,"born at Duke",0,0,NA,0,0,"abdominal",4,1,1,1,1,"absent","definite","definite",86.1368408,"male",1
+"519",86.1409988,86.1709976,11,7.3599968,231,"black",1170,30,"born at Duke",0,12,1,1,0,"abdominal",8,0,0,0,0,"possible","absent","possible",86.142334,"female",0
+"520",86.1849976,86.2089996,9,NA,NA,"black",1270,29,"born at Duke",0,NA,0,1,0,"abdominal",NA,0,0,0,0,"absent","absent","absent",86.1861572,"male",0
+"521",86.163002,86.2750015,41,NA,NA,"white",1000,28,"born at Duke",0,39,0,0,0,"vaginal",6,0,0,0,0,"absent","absent","absent",86.1642456,"female",0
+"522",86.1660004,86.2450027,29,7.39999771,196,"black",1280,29,"born at Duke",1,0,1,1,0,"abdominal",3,0,0,0,0,"absent","absent","absent",86.1669922,"female",0
+"523",86.1660004,86.2450027,29,7.38999939,205,"black",1000,29,"born at Duke",1,0,1,1,0,"abdominal",2,0,0,0,0,"absent","absent","definite",86.1669922,"female",0
+"524",86.1790009,86.3410034,59,7.27999878,190,"native American",1005,27,"transported",0,8,0,NA,NA,"vaginal",2,1,0,1,1,"definite","definite","absent",86.1806641,"male",0
+"525",86.1900024,86.3219986,48,7.18999863,321,"white",890,28,"born at Duke",0,3,0,0,1,"vaginal",6,1,0,1,1,"definite","absent","absent",86.1915894,"female",0
+"526",86.1900024,86.2480011,21,7.19999695,165,"white",1480,31,"transported",0,NA,0,NA,NA,"abdominal",9,1,1,0,0,"absent","absent","absent",86.1915894,"male",0
+"527",86.2070007,86.2750015,25,7.3599968,303,"black",1340,31,"born at Duke",0,NA,0,0,0,"vaginal",5,0,0,0,0,"definite","definite","absent",86.2080688,"female",0
+"528",86.2259979,86.439003,78,7.27999878,361,"black",780,27,"born at Duke",0,3,0,1,0,"vaginal",2,1,0,1,1,"definite","absent","absent",86.2272339,"male",0
+"529",86.1660004,86.3270035,59,7.54999924,247,"white",1480,34,"born at Duke",1,10,0,1,0,"vaginal",7,0,0,0,0,"absent","absent","absent",86.1669922,"male",0
+"530",86.2419968,86.3270035,31,7.51999664,272,"white",1200,34,"born at Duke",1,10,0,1,0,"vaginal",8,0,0,0,0,"possible","absent","absent",86.2436523,"female",0
+"531",86.2450027,86.4589996,78,7.09999847,308,"black",900,27,"born at Duke",0,7,0,0,0,"vaginal",5,0,0,0,0,"possible","absent","absent",86.2463989,"female",0
+"532",86.2529984,86.3600006,39,7.36999893,272,"black",1050,27,"born at Duke",0,4,0,1,0,"abdominal",8,0,0,0,0,"absent","absent","absent",86.2545776,"female",0
+"533",86.2559967,86.4179993,59,7.0399971,118,"black",800,26,"born at Duke",0,28,0,0,1,"abdominal",3,0,0,1,0,"absent","absent","absent",86.2573242,"female",0
+"534",86.2669983,86.3219986,20,7.2899971,286,"white",1350,31,"born at Duke",1,0,0,1,1,"abdominal",8,0,0,1,0,"absent","absent","absent",86.2682495,"female",0
+"535",86.2669983,86.3239975,21,7.34999847,244,"white",1340,31,"born at Duke",1,0,0,1,1,"abdominal",8,0,0,0,0,"definite","absent","absent",86.2682495,"male",0
+"536",86.2669983,86.3570023,33,7.32999802,261,"white",1200,31,"born at Duke",1,0,0,1,1,"abdominal",8,1,0,0,0,"absent","absent","absent",86.2682495,"male",0
+"537",86.2669983,86.3219986,20,7.25,201,"white",1420,31,"born at Duke",1,0,0,1,1,"abdominal",8,1,0,0,0,"possible","absent","absent",86.2682495,"male",0
+"538",86.2779999,86.3789978,37,7.16999817,226,"black",1120,28,"born at Duke",0,3,0,1,0,"abdominal",2,1,0,0,0,"absent","absent","absent",86.2792358,"male",0
+"539",86.2860031,86.3219986,13,7.39999771,191,"white",1120,32,"born at Duke",0,0,0,1,0,"abdominal",8,0,0,0,0,"absent","absent","absent",86.2874146,"female",0
+"540",86.2919998,86.3079987,6,NA,229,"white",1210,33,"born at Duke",0,4,0,0,0,"abdominal",9,0,0,0,0,"absent","absent","absent",86.2929077,"female",0
+"541",86.2969971,86.8639984,207,7.19999695,77,"black",800,26,"born at Duke",0,72,0,0,0,"abdominal",1,1,0,1,1,"absent","absent","absent",86.2984009,"male",1
+"542",86.3349991,86.4860001,55,7.13999939,146,"black",1180,28,"transported",0,8,0,NA,NA,"vaginal",7,1,0,0,0,"definite","definite","absent",86.336731,"female",0
+"543",86.3379974,86.689003,128,7.22999954,47,"native American",400,27,"born at Duke",0,0,0,1,0,"abdominal",1,1,0,0,1,"absent","absent","absent",86.3394775,"female",0
+"544",86.3410034,86.3519974,4,7.19999695,62,"white",850,29,"born at Duke",0,NA,0,1,0,"vaginal",6,1,0,0,NA,"absent","absent","absent",86.3422241,"female",1
+"545",86.3410034,86.4339981,34,7.25,143,"native American",1060,29,"born at Duke",0,0,0,0,0,"abdominal",8,0,0,0,0,"absent","absent","absent",86.3422241,"female",0
+"546",86.3460007,86.3820038,13,7.34999847,274,"white",1380,31,"born at Duke",0,2,0,1,1,"vaginal",7,0,0,0,0,"absent","absent","absent",86.3476562,"female",0
+"547",86.3550034,86.3570023,1,7.21999741,205,"white",1250,29,"born at Duke",0,9,0,1,0,"abdominal",4,1,1,0,0,NA,NA,NA,86.355896,"female",1
+"548",86.3679962,86.5630035,71,7.20999908,118,"black",700,27,"born at Duke",0,0,1,0,0,"abdominal",3,1,0,0,1,"absent","absent","absent",86.3695679,"male",1
+"549",86.3789978,86.387001,3,NA,NA,NA,1460,31,"born at Duke",0,20,0,1,1,"vaginal",8,0,0,0,0,"possible","absent","absent",86.3805542,"male",0
+"550",86.3820038,86.4530029,26,7.37999725,260,"black",1320,31,"born at Duke",1,2,0,1,0,"vaginal",5,0,0,0,0,"absent","absent","absent",86.3832397,"male",0
+"551",86.3820038,86.4530029,26,7.30999756,214,"black",1300,31,"born at Duke",1,2,0,1,0,"vaginal",7,0,0,0,0,"absent","absent","absent",86.3832397,"female",0
+"552",86.401001,86.5240021,45,NA,342,"black",1370,31,"born at Duke",0,2,0,1,0,"vaginal",2,0,0,0,0,"absent","absent","absent",86.4024048,"female",0
+"553",86.4069977,86.4069977,-2,NA,NA,"black",500,23,"born at Duke",0,10,0,0,0,"vaginal",1,1,0,0,NA,"absent","definite","absent",86.4078979,"female",1
+"554",86.4199982,NA,NA,7.29999924,143,"black",1060,31,"transported",0,NA,0,NA,NA,"abdominal",3,1,0,1,1,"absent","absent","absent",86.4215698,"male",0
+"555",86.4199982,86.7460022,119,7.23999786,304,"black",680,26,"born at Duke",0,7,0,0,0,"vaginal",4,1,0,1,1,"absent","absent","absent",86.4215698,"male",0
+"556",86.4260025,86.5599976,49,NA,219,"black",920,28,"born at Duke",0,NA,0,1,1,"vaginal",7,1,0,0,0,"definite","absent","absent",86.427063,"male",0
+"557",86.4309998,86.4449997,5,NA,148,"white",1480,34,"born at Duke",1,NA,NA,1,0,"abdominal",3,0,0,0,0,NA,NA,NA,86.4325562,"male",0
+"558",86.4339981,86.5159988,30,7.18999863,178,"white",1340,31,"born at Duke",0,13,0,0,0,"vaginal",4,1,0,0,0,"definite","absent","absent",86.4353027,"male",0
+"559",86.4449997,86.447998,1,6.92999649,NA,"white",1030,26,"transported",0,NA,0,1,1,"vaginal",1,1,0,0,0,NA,NA,NA,86.446228,"male",1
+"560",86.4530029,86.6559982,74,7.17999649,149,"black",920,28,"born at Duke",0,8,0,0,0,"vaginal",9,1,0,0,0,"absent","absent","absent",86.4544678,"male",0
+"561",86.4560013,86.5490036,34,7.38999939,146,"black",1180,34,"born at Duke",0,0,1,1,0,"abdominal",3,0,0,0,0,"absent","absent","absent",86.4572144,"male",0
+"562",86.4589996,NA,NA,NA,NA,"black",1200,28,"born at Duke",0,0,0,1,0,"abdominal",7,0,0,0,0,"absent","absent","absent",86.4598999,"female",0
+"563",86.4639969,86.4779968,5,7.34999847,217,"white",1480,32,"born at Duke",0,0,0,1,1,"abdominal",4,0,0,0,0,"absent","absent","absent",86.4653931,"male",0
+"564",86.4700012,86.6669998,72,7.17999649,219,"black",740,26,"transported",0,4,0,NA,NA,"vaginal",1,1,0,0,0,"definite","possible","absent",86.4708862,"male",0
+"565",86.4720001,NA,NA,7.31999969,192,"black",870,27,"transported",0,NA,0,NA,NA,"vaginal",5,1,0,1,1,"absent","absent","absent",86.4736328,"female",0
+"566",86.4749985,86.5220032,17,7.11999893,206,"white",970,26,"born at Duke",0,4,0,1,0,"abdominal",4,1,1,1,0,"possible","absent","possible",86.4763794,"female",1
+"567",86.5240021,68.526001,-6574,6.98999786,NA,"black",600,23,"born at Duke",0,NA,0,0,0,"vaginal",2,1,1,0,NA,"absent","definite","definite",86.5256348,"female",1
+"568",86.538002,86.8769989,124,7.00999832,180,"white",790,26,"born at Duke",0,3,0,0,0,"vaginal",1,1,0,1,1,"definite","absent","absent",86.5393066,"male",0
+"569",86.5540009,86.8089981,93,7.21999741,146,"black",1020,28,"born at Duke",1,0,1,1,0,"abdominal",6,1,0,1,1,"absent","absent","absent",86.5557251,"male",0
+"570",86.5540009,86.5630035,3,6.80999756,57,"black",430,28,"born at Duke",1,0,1,1,0,"abdominal",6,1,1,1,NA,NA,NA,NA,86.5557251,"male",1
+"571",86.5599976,86.6090012,18,7.29999924,189,"black",1290,32,"transported",1,23,0,NA,NA,"vaginal",6,0,0,0,0,"absent","absent","absent",86.5612183,"female",0
+"572",86.5599976,86.6090012,18,7.22999954,163,"black",1390,32,"transported",1,23,0,NA,NA,"vaginal",3,1,0,1,0,"absent","absent","definite",86.5612183,"female",0
+"573",86.5630035,86.6669998,38,7.37999725,290,"white",1260,31,"born at Duke",0,NA,0,NA,NA,"vaginal",5,0,0,0,0,"absent","absent","absent",86.5639648,"male",0
+"574",86.5759964,86.7129974,50,7.11999893,98,"black",500,25,"transported",0,10,0,NA,NA,"vaginal",1,1,1,1,1,"absent","possible","absent",86.5776367,"male",1
+"575",86.5790024,86.5950012,6,7.30999756,334,"black",1310,33,"born at Duke",0,0,0,0,0,"abdominal",9,0,0,0,0,"absent","absent","absent",86.5803833,"male",0
+"576",86.586998,87.2279968,234,NA,NA,"white",770,26,"born at Duke",0,0,0,0,0,"abdominal",1,1,0,NA,1,"absent","absent","absent",86.588623,"male",0
+"577",86.6009979,86.6119995,4,7.14999771,199,"black",570,25,"transported",1,11,0,NA,NA,"vaginal",NA,0,0,0,0,"absent","absent","definite",86.6022949,"female",0
+"578",86.6090012,86.6500015,15,7.3599968,172,"black",1210,31,"born at Duke",0,6,0,0,0,"vaginal",3,0,0,0,0,"definite","absent","absent",86.6105347,"female",0
+"579",86.637001,86.8990021,96,7.12999725,154,"white",1200,31,"born at Duke",1,7,NA,0,0,"abdominal",6,1,0,1,1,"absent","absent","absent",86.6378784,"female",0
+"580",86.637001,86.8359985,73,7.07999802,80,"white",1040,31,"born at Duke",1,7,NA,0,0,"abdominal",6,1,1,1,1,"definite","absent","absent",86.6378784,"female",0
+"581",86.6389999,86.7490005,40,7.32999802,173,"black",1000,27,"born at Duke",0,0,0,0,1,"abdominal",5,1,0,1,0,"absent","absent","definite",86.640625,"female",0
+"582",86.6449966,86.6689987,9,7.19999695,85,"white",1360,30,"transported",0,NA,0,NA,NA,"abdominal",2,1,0,0,NA,"absent","absent","absent",86.6461182,"female",1
+"583",86.6500015,86.8310013,66,7.11999893,138,"black",950,27,"born at Duke",0,26,0,0,0,"vaginal",2,1,1,0,1,"definite","absent","possible",86.6515503,"female",0
+"584",86.6640015,86.776001,41,7.31999969,211,"black",1200,29,"born at Duke",0,4,0,0,0,"vaginal",6,0,0,0,0,"definite","absent","absent",86.6652832,"female",0
+"585",86.6910019,86.762001,26,7.22999954,387,"black",1480,31,"born at Duke",0,NA,0,1,1,"vaginal",7,0,0,0,0,"absent","absent","absent",86.692627,"male",0
+"586",86.6969986,86.7460022,18,7.37999725,353,"white",1300,32,"born at Duke",0,0,0,1,0,"abdominal",8,0,0,0,0,"definite","absent","definite",86.6981201,"female",0
+"587",86.7050018,86.7490005,16,7.17999649,209,"white",1400,31,"born at Duke",0,NA,0,0,1,"vaginal",7,1,0,0,0,"absent","absent","possible",86.7063599,"female",0
+"588",86.7080002,86.7679977,22,7.27999878,306,"oriental",1160,27,"born at Duke",0,8,0,1,1,"vaginal",3,0,0,0,1,"absent","absent","absent",86.7090454,"male",0
+"589",86.7129974,86.7409973,10,7.46999741,127,"white",1390,38,"transported",0,NA,0,NA,NA,"abdominal",1,0,0,0,0,"possible","absent","absent",86.7145386,NA,0
+"590",86.7300034,86.7929993,23,7.2899971,196,"black",1480,30,"born at Duke",0,NA,0,1,1,"vaginal",6,0,0,0,0,"definite","absent","absent",86.730957,"female",0
+"591",86.737999,86.7519989,5,7.33999634,128,"white",1480,33,"born at Duke",0,NA,0,0,0,"vaginal",7,0,0,0,0,"absent","absent","absent",86.7391968,"female",0
+"592",86.7490005,86.7649994,6,7.34999847,204,"white",1250,32,"born at Duke",1,0,0,1,1,"abdominal",5,0,0,0,0,"absent","absent","absent",86.7501221,"female",0
+"593",86.7519989,86.9759979,82,7.17999649,244,"black",1150,28,"born at Duke",0,9,0,1,1,"vaginal",6,0,0,1,0,"absent","absent","absent",86.7528687,"female",0
+"594",86.7600021,87.0579987,109,7.1099968,57,"white",650,28,"born at Duke",0,0,1,0,0,"abdominal",2,1,0,0,0,"absent","definite","absent",86.7611084,"female",0
+"595",86.7679977,86.8010025,12,NA,NA,"white",1400,30,"transported",0,NA,0,0,0,"vaginal",8,0,0,0,0,"absent","absent","absent",86.7692871,"female",0
+"596",86.7730026,86.776001,1,7,217,"white",660,25,"born at Duke",0,25,0,0,1,"vaginal",6,1,1,0,NA,NA,NA,NA,86.7747803,"female",1
+"597",86.8089981,86.9430008,49,7.16999817,352,"black",1162,31,"transported",0,27,0,0,1,"vaginal",8,1,0,0,0,"absent","absent","absent",86.8103638,"male",0
+"598",86.8280029,96.8710022,3668,7.12999725,296,"black",730,25,"born at Duke",0,8,0,0,0,"vaginal",3,1,0,1,NA,"absent","absent","absent",86.8295288,"female",1
+"599",86.8420029,86.8830032,15,7.2899971,264,"black",1400,31,"transported",0,15,0,NA,NA,"vaginal",3,0,0,0,0,"definite","absent","absent",86.8432007,"male",0
+"600",86.875,86.9919968,43,6.96999741,129,"black",630,27,"transported",1,NA,0,0,1,"abdominal",3,1,1,1,1,"possible","absent","definite",86.8760986,"female",1
+"601",86.875,87.2850037,150,7.19999695,117,"black",687,27,"transported",1,NA,0,0,1,"abdominal",3,1,0,1,1,"definite","absent","definite",86.8760986,"male",0
+"602",86.8769989,87.0279999,55,7.41999817,313,"black",1480,32,"born at Duke",0,NA,0,NA,NA,"vaginal",6,0,0,0,0,"definite","absent","possible",86.8788452,"male",0
+"603",86.8880005,86.9599991,26,7.3599968,130,"black",1430,32,"transported",0,4,0,NA,NA,"abdominal",0,0,0,0,0,NA,NA,NA,86.8897705,"female",0
+"604",86.8939972,86.9459991,19,7.20999908,191,"black",1500,31,"born at Duke",0,11,0,0,0,"vaginal",5,1,0,0,0,"absent","absent","absent",86.8952637,"male",0
+"605",86.8970032,87.2060013,113,7.27999878,310,"black",1010,27,"born at Duke",0,0,0,1,0,"abdominal",7,0,0,0,0,"absent","absent","absent",86.8980103,"female",0
+"606",86.9020004,86.9729996,26,7.07999802,228,"black",1310,28,"born at Duke",0,7,0,0,0,"vaginal",7,1,1,0,0,"possible","absent","absent",86.9034424,"male",0
+"607",86.9240036,86.927002,1,6.88999939,129,"black",800,25,"born at Duke",0,3,0,0,0,"vaginal",3,NA,0,0,NA,"absent","absent","absent",86.925354,"male",1
+"608",86.9300003,87.0199966,33,7.38999939,65,"black",1080,29,"born at Duke",0,10,0,1,1,"abdominal",9,0,0,0,0,"possible","absent","absent",86.9308472,"male",0
+"609",86.9459991,87.0530014,39,7.33999634,70,"black",1220,30,"born at Duke",1,0,0,1,0,"abdominal",7,0,0,0,0,"absent","absent","absent",86.9472656,"female",0
+"610",86.9459991,87.0279999,30,7.23999786,68,"black",1100,30,"born at Duke",1,0,0,1,0,"abdominal",6,0,0,0,0,"absent","absent","absent",86.9472656,"female",0
+"611",86.9489975,87.0749969,46,7.02999878,131,"white",1140,30,"born at Duke",0,0,0,0,0,"abdominal",7,1,1,0,1,"absent","absent","absent",86.9500122,"male",0
+"612",86.9599991,87.0029984,16,7.18999863,195,"black",1170,27,"transported",0,2,0,NA,NA,"abdominal",4,1,1,0,NA,"absent","possible","absent",86.9609375,"male",1
+"613",86.9840012,87.1320038,54,7.27999878,246,"white",1000,28,"born at Duke",0,NA,0,0,0,"vaginal",3,0,0,0,0,"absent","absent","absent",86.9855957,"male",0
+"614",86.9919968,86.9919968,-2,6.97999954,359,"white",780,26,"born at Duke",0,7,0,0,0,"abdominal",4,NA,1,0,NA,NA,NA,NA,86.9938354,"male",1
+"615",86.9950027,87.1460037,55,7.04999924,399,"black",1010,28,"born at Duke",0,17,0,0,0,"vaginal",4,1,0,0,1,"absent","definite","absent",86.996521,"male",0
+"616",86.9980011,87.0800018,30,7.09999847,142,"black",1330,30,"transported",0,NA,0,NA,NA,"vaginal",7,1,1,1,0,"absent","absent","absent",87,"female",0
+"617",87.0090027,87.0579987,18,NA,NA,"black",1350,31,"transported",0,NA,NA,NA,NA,"abdominal",1,1,0,0,0,"absent","absent","absent",87.0109253,"male",0
+"618",87.0199966,87.4629974,162,NA,NA,"black",700,27,NA,0,NA,0,NA,NA,"vaginal",2,NA,NA,NA,1,"absent","absent","absent",87.0218506,"female",0
+"619",87.0250015,87.1620026,50,7.21999741,131,"black",540,25,"born at Duke",0,4,0,0,1,"vaginal",2,1,0,0,1,"possible","absent","absent",87.0273438,"male",1
+"620",87.0309982,87.3649979,122,7.20999908,16,"black",700,27,"born at Duke",0,0,0,1,0,"abdominal",0,1,1,0,1,"absent","absent","absent",87.0328369,"female",0
+"621",87.0169983,87.8379974,300,NA,NA,"black",1160,29,"born at Duke",1,0,NA,NA,NA,"abdominal",6,1,1,NA,1,NA,NA,NA,87.019104,"male",0
+"622",87.0579987,87.1839981,46,7.32999802,225,"black",1360,31,"born at Duke",1,0,0,1,1,"abdominal",8,0,0,0,0,"definite","absent","absent",87.0601807,"female",0
+"623",87.0719986,87.1289978,21,7.18999863,266,"white",1340,29,"born at Duke",0,6,0,0,0,"abdominal",6,1,0,1,0,"absent","absent","absent",87.0739136,"female",0
+"624",87.0749969,87.2360001,59,7.16999817,120,"white",1320,29,"born at Duke",1,0,0,1,1,"abdominal",8,1,1,1,0,"absent","absent","absent",87.0765991,"male",0
+"625",87.0749969,87.2419968,61,7.16999817,207,"white",1230,30,"born at Duke",1,0,0,1,1,"abdominal",8,1,1,1,0,"possible","absent","absent",87.0765991,"female",0
+"626",87.0749969,87.2549973,66,7.18999863,46,"white",910,30,"born at Duke",1,0,0,1,1,"abdominal",7,1,0,1,0,"absent","absent","possible",87.0765991,"male",0
+"627",87.0830002,87.0879974,2,7.04999924,244,"black",1290,28,"born at Duke",0,2,NA,0,0,"vaginal",6,1,1,0,NA,"definite","definite","absent",87.0848389,"female",1
+"628",87.0859985,87.2030029,43,7.26999664,216,"white",1230,31,"born at Duke",1,5,0,0,0,"abdominal",1,0,0,0,0,"absent","absent","absent",87.0875854,"female",0
+"629",87.0859985,87.2030029,43,7.15999985,188,"white",1310,31,"born at Duke",1,5,0,0,0,"abdominal",1,1,0,1,0,"absent","absent","absent",87.0875854,"female",0
+"630",87.0879974,87.2009964,41,7.19999695,157,"white",1240,28,"born at Duke",0,0,0,0,0,"abdominal",3,1,1,1,0,"absent","absent","absent",87.090332,"female",0
+"631",87.1159973,87.2249985,40,7.41999817,177,"black",1300,31,"born at Duke",0,1,0,0,0,"vaginal",8,0,0,0,0,"absent","absent","absent",87.1176758,"female",0
+"632",87.1179962,87.2740021,57,7.19999695,335,"white",1250,28,"born at Duke",1,0,0,1,1,"abdominal",7,0,0,1,0,"possible","absent","absent",87.1204224,"female",0
+"633",87.1179962,87.2799988,59,NA,NA,"white",1230,28,"born at Duke",1,0,0,1,1,"abdominal",NA,NA,NA,NA,NA,"absent","absent","absent",87.1204224,"male",0
+"634",87.1179962,87.3980026,102,7.15999985,372,"white",1120,28,"born at Duke",1,0,0,1,1,"abdominal",8,1,1,1,1,"absent","absent","absent",87.1204224,"male",0
+"635",87.1179962,87.1679993,18,7.15999985,87,"white",1200,28,"born at Duke",1,16,0,1,1,"abdominal",7,1,1,1,NA,"definite","absent","absent",87.1204224,"male",1
+"636",87.1429977,87.1920013,18,7.26999664,38,"black",1220,33,"born at Duke",0,18,0,0,1,"abdominal",4,0,0,0,0,"definite","absent","absent",87.1450806,"male",0
+"637",87.1589966,87.3399963,66,NA,NA,"white",1300,30,"born at Duke",0,0,0,0,0,"abdominal",5,1,1,1,1,"definite","definite","absent",87.161499,"female",0
+"638",87.1900024,87.5510025,132,7.25,277,"white",720,26,"born at Duke",0,2,1,0,0,"vaginal",6,1,0,0,0,"definite","absent","absent",87.1915894,"female",0
+"639",87.2170029,87.4720001,93,NA,NA,"white",920,27,"born at Duke",0,NA,NA,NA,NA,"vaginal",8,NA,NA,NA,NA,"absent","absent","absent",87.2189941,"female",0
+"640",87.2170029,87.6279984,150,NA,NA,"white",750,27,"transported",0,NA,NA,NA,NA,"vaginal",3,1,0,NA,1,"absent","absent","absent",87.2189941,"male",0
+"641",87.2200012,87.4800034,95,7.07999802,65,"native American",1010,31,"transported",0,NA,0,NA,NA,"vaginal",4,1,0,1,1,"definite","definite","definite",87.2217407,"female",0
+"642",87.2249985,87.2440033,7,7.42999649,187,"white",1440,35,"born at Duke",0,1,0,0,0,"vaginal",9,0,0,0,0,"absent","absent","absent",87.2272339,"male",0
+"643",87.2360001,87.6660004,157,7.17999649,214,"black",720,25,"born at Duke",0,1,0,0,0,"vaginal",1,1,0,1,1,"absent","absent","absent",87.2381592,"male",0
+"644",87.2389984,87.5130005,100,NA,NA,"white",1140,28,"transported",0,NA,0,NA,NA,"abdominal",5,1,0,1,1,"definite","definite","definite",87.2409058,"female",0
+"645",87.2440033,87.2470016,1,NA,NA,"black",500,25,"born at Duke",0,0,1,0,0,"abdominal",5,NA,NA,NA,NA,NA,NA,NA,87.2463989,"female",1
+"646",87.2689972,87.2740021,2,7.16999817,160,"black",800,25,"born at Duke",0,3,0,0,0,"vaginal",1,NA,0,0,NA,NA,NA,NA,87.2709961,"male",1
+"647",87.2770004,87.473999,72,7.17999649,172,"white",835,27,"born at Duke",0,18,0,0,0,"vaginal",4,1,0,0,1,"absent","absent","absent",87.2792358,"female",0
+"648",87.2850037,87.4140015,47,7.33999634,131,"black",1040,33,"born at Duke",0,0,0,0,0,"abdominal",8,0,0,0,0,"absent","absent","absent",87.2874146,"female",0
+"649",87.3050003,87.4000015,35,7.25999832,100,"black",1350,30,"born at Duke",1,12,0,0,0,"abdominal",6,0,0,0,0,"absent","absent","absent",87.3065796,"male",0
+"650",87.3050003,87.3809967,28,7.31999969,227,"black",1175,30,"born at Duke",1,12,0,0,0,"abdominal",1,0,0,0,0,"possible","absent","absent",87.3065796,"female",0
+"651",87.3099976,87.4720001,59,NA,NA,"black",1240,27,"born at Duke",0,24,0,0,1,"abdominal",4,1,0,1,1,"absent","definite","absent",87.3120728,"male",0
+"652",87.3209991,87.4609985,51,7.3599968,332,"black",750,26,"born at Duke",0,8,0,1,0,"vaginal",6,1,0,0,0,"absent","absent","absent",87.3230591,"male",0
+"653",87.3259964,87.3460007,7,6.98999786,101,"white",800,25,"born at Duke",1,5,1,1,1,"abdominal",7,1,1,0,NA,NA,NA,NA,87.3284912,"male",1
+"654",87.3259964,87.3509979,9,7.05999756,75,"white",920,25,"born at Duke",1,5,1,1,1,"abdominal",6,1,1,1,NA,"definite","absent","definite",87.3284912,"male",1
+"655",87.3259964,87.6439972,116,NA,NA,"white",720,26,"born at Duke",1,NA,1,1,0,"abdominal",8,1,0,0,1,"absent","absent","definite",87.3284912,"female",0
+"656",87.3259964,87.3590012,12,NA,NA,"white",850,26,"born at Duke",1,NA,1,1,0,"abdominal",5,1,1,1,0,"absent","absent","absent",87.3284912,"male",1
+"657",87.3349991,87.3430023,3,7.02999878,105,"black",610,25,"born at Duke",0,31,0,0,1,"vaginal",3,1,0,0,NA,"absent","definite","definite",87.336731,"female",1
+"658",87.3349991,87.336998,1,6.73999786,327,"black",800,26,"born at Duke",0,20,1,0,0,"vaginal",1,NA,1,0,NA,NA,NA,NA,87.336731,"male",1
+"659",87.3539963,NA,NA,NA,NA,"white",1100,28,"transported",0,NA,NA,NA,NA,"abdominal",2,1,1,1,1,"possible","absent","absent",87.355896,"male",1
+"660",87.3590012,87.4690018,40,NA,NA,"white",1320,NA,"born at Duke",1,11,0,0,0,"abdominal",8,1,1,1,1,"absent","absent","absent",87.3613892,"female",0
+"661",87.3590012,87.4830017,45,7.05999756,223,"white",1290,30,"born at Duke",1,11,0,0,0,"abdominal",8,1,1,0,0,"definite","definite","absent",87.3613892,"female",0
+"662",87.4029999,87.4140015,4,7.19999695,186,"black",1350,30,"transported",1,9,0,0,0,"vaginal",5,0,0,0,0,NA,NA,NA,87.4051514,"male",0
+"663",87.4140015,87.7210007,112,NA,NA,"black",1100,27,"transported",0,4,0,0,0,"vaginal",3,1,0,1,1,"definite","absent","absent",87.4161377,"male",0
+"664",87.4329987,87.5289993,35,7.17999649,289,"black",910,28,"transported",0,NA,0,0,0,"vaginal",4,0,0,0,0,"definite","definite","definite",87.4353027,"female",0
+"665",87.435997,NA,NA,NA,NA,NA,1490,NA,NA,0,0,NA,NA,NA,"abdominal",NA,NA,NA,NA,NA,"absent","absent","absent",87.4380493,NA,0
+"666",87.4550018,87.5370026,30,7.2899971,144,"black",1320,30,"born at Duke",0,5,NA,1,1,"vaginal",8,0,0,0,0,"absent","absent","absent",87.4572144,"male",0
+"667",87.4660034,87.6819992,79,7.23999786,278,"white",805,26,"transported",0,22,0,0,0,"vaginal",6,1,1,0,1,"definite","possible","absent",87.4681396,"male",0
+"668",87.4690018,NA,NA,7.19999695,290,"white",1200,30,"born at Duke",0,6,NA,0,0,"vaginal",8,1,0,1,1,"absent","absent","absent",87.4708862,"male",0
+"669",87.4720001,87.8000031,120,NA,NA,"white",1150,29,"born at Duke",0,0,0,0,0,"abdominal",5,1,0,1,1,"absent","absent","absent",87.4736328,"female",0
+"670",87.4720001,87.5479965,28,7.14999771,173,"white",860,29,"born at Duke",1,0,0,0,0,"abdominal",5,1,0,1,NA,"absent","absent","absent",87.4736328,"female",1
+"671",87.4830017,87.7180023,86,7.18999863,136,"white",1050,28,"born at Duke",0,6,0,0,0,"vaginal",5,1,0,1,1,"absent","absent","absent",87.4845581,"male",0
