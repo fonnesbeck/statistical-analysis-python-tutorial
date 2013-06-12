@@ -16,49 +16,47 @@ The target audience for the tutorial includes all new Python users, though we re
 
 ### Introduction to Pandas (45 min)
 
-Importing data
-Series and DataFrame objects
-Indexing, data selection and subsetting
-Hierarchical indexing
-Reading and writing files
-Date/time types
-String conversion
-Missing data
-Data summarization
+* Importing data
+* Series and DataFrame objects
+* Indexing, data selection and subsetting
+* Hierarchical indexing
+* Reading and writing files
+* Date/time types
+* String conversion
+* Missing data
+* Data summarization
 
 ### Data Wrangling with Pandas (45 min)
 
-Indexing, selection and subsetting
-Reshaping DataFrame objects
-Pivoting
-Alignment
-Data aggregation and GroupBy operations
-Merging and joining DataFrame objects
+* Indexing, selection and subsetting
+* Reshaping DataFrame objects
+* Pivoting
+* Alignment
+* Data aggregation and GroupBy operations
+* Merging and joining DataFrame objects
 
 ### Plotting and Visualization (45 min)
 
-Time series plots
-Grouped plots
-Scatterplots
-Histograms
-Visualization pro tips
+* Time series plots
+* Grouped plots
+* Scatterplots
+* Histograms
+* Visualization pro tips
 
 ### Statistical Data Modeling (45 min)
 
-Fitting data to probability distributions
-Linear models
-Spline models
-Time series analysis
-Bayesian models
-Required Packages
+* Fitting data to probability distributions
+* Fitting regression models
+* Spline models
+* Bayesian models
 
 ## Required Packages
 
-Python 2.7 or higher (including Python 3)
-pandas >= 0.11.1 and its dependencies
-NumPy >= 1.6.1
-matplotlib >= 1.0.0
-pytz
-IPython >= 0.12
-pyzmq
-tornado
+* Python 2.7 or higher (including Python 3)
+* pandas >= 0.11.1 and its dependencies
+* NumPy >= 1.6.1
+* matplotlib >= 1.0.0
+* pytz
+* IPython >= 0.12
+* pyzmq
+* tornado
