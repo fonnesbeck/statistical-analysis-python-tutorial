@@ -64,3 +64,9 @@ For students familiar with Git, you may simply clone this repository to obtain a
 * IPython >= 0.12
 * pyzmq
 * tornado
+
+For students running the latest version of Mac OS X (10.8), the easiest way to obtain all the packages is to install the [Scipy Superpack](http://bit.ly/scipy_superpack) which works with Python 2.7.2 that ships with OS X.
+
+Otherwise, another easy way to install all the necessary packages is to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
+
+For those requiring extra assistance with installing packages, there will be a help desk available Monday, June 24, 7-8AM at the conference venue.
