@@ -47,8 +47,8 @@ The target audience for the tutorial includes all new Python users, though we re
 
 * Fitting data to probability distributions
 * Fitting regression models
-* Spline models
-* Bayesian models
+* Model selection
+* Bootstrapping
 
 ## Required Packages
 
