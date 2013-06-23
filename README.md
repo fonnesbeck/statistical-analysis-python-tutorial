@@ -12,6 +12,10 @@ This tutorial will introduce the use of Python for statistical data analysis, us
 
 The target audience for the tutorial includes all new Python users, though we recommend that users also attend the NumPy and IPython session in the introductory track.
 
+### Student Instructions
+
+For students familiar with Git, you may simply clone this repository to obtain all the materials (iPython notebooks and data) for the tutorial. Alternatively, you may [download a zip file containing the materials](https://github.com/fonnesbeck/statistical-analysis-python-tutorial/archive/master.zip).
+
 ## Outline
 
 ### Introduction to Pandas (45 min)
