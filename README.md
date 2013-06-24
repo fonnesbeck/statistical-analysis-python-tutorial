@@ -18,37 +18,41 @@ For students familiar with Git, you may simply clone this repository to obtain a
 
 ## Outline
 
-### Introduction to Pandas (45 min)
+### Introduction to Pandas
 
 * Importing data
 * Series and DataFrame objects
 * Indexing, data selection and subsetting
 * Hierarchical indexing
 * Reading and writing files
-* Date/time types
-* String conversion
+* Sorting and ranking
 * Missing data
 * Data summarization
 
-### Data Wrangling with Pandas (45 min)
+### Data Wrangling with Pandas
 
-* Indexing, selection and subsetting
+* Date/time types
+* Merging and joining DataFrame objects
+* Concatenation
 * Reshaping DataFrame objects
 * Pivoting
-* Alignment
+* Data transformation
+* Permutation and sampling
 * Data aggregation and GroupBy operations
-* Merging and joining DataFrame objects
 
-### Plotting and Visualization (45 min)
+### Plotting and Visualization
 
-* Time series plots
+* Plotting in Pandas vs Matplotlib
+* Bar plots
+* Histograms
+* Box plots
 * Grouped plots
 * Scatterplots
-* Histograms
-* Visualization pro tips
+* Trellis plots
 
-### Statistical Data Modeling (45 min)
+### Statistical Data Modeling
 
+* Statistical modeling
 * Fitting data to probability distributions
 * Fitting regression models
 * Model selection
