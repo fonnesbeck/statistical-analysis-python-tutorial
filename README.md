@@ -18,7 +18,7 @@ For students familiar with Git, you may simply clone this repository to obtain a
 
 ## Outline
 
-### Introduction to Pandas
+### [Introduction to Pandas][1]
 
 * Importing data
 * Series and DataFrame objects
@@ -29,7 +29,7 @@ For students familiar with Git, you may simply clone this repository to obtain a
 * Missing data
 * Data summarization
 
-### Data Wrangling with Pandas
+### [Data Wrangling with Pandas][2]
 
 * Date/time types
 * Merging and joining DataFrame objects
@@ -40,7 +40,7 @@ For students familiar with Git, you may simply clone this repository to obtain a
 * Permutation and sampling
 * Data aggregation and GroupBy operations
 
-### Plotting and Visualization
+### [Plotting and Visualization][3]
 
 * Plotting in Pandas vs Matplotlib
 * Bar plots
@@ -50,7 +50,7 @@ For students familiar with Git, you may simply clone this repository to obtain a
 * Scatterplots
 * Trellis plots
 
-### Statistical Data Modeling
+### [Statistical Data Modeling][4]
 
 * Statistical modeling
 * Fitting data to probability distributions
@@ -74,3 +74,8 @@ For students running the latest version of Mac OS X (10.8), the easiest way to o
 Otherwise, another easy way to install all the necessary packages is to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
 
 For those requiring extra assistance with installing packages, there will be a help desk available Monday, June 24, 7-8AM at the conference venue.
+
+[1]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850375/raw/68fbe172b584e68f48161aa78f008db9d8b5ea41/1.+Introduction+to+Pandas.ipynb   "Introduction to Pandas"
+[2]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850413/raw/2b574b64d57bdb80fe6fc4650f70a3e55decd372/2.+Data+Wrangling+with+Pandas.ipynb "Data wrangling with Pandas"
+[3]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/1a4106474b90c773714e86c4b602152434fb6879/3.+Plotting+and+Visualization.ipynb "Plotting and visualization"
+[4]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850483/raw/ec9075525d272f346f0d388494507becd935279c/4.+Statistical+Data+Modeling.ipynb "Statistical data modeling"
