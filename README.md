@@ -78,4 +78,4 @@ For those requiring extra assistance with installing packages, there will be a h
 [1]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850375/raw/c18cfcd9580d382cb6d14e4708aab33a0916ff3e/1.+Introduction+to+Pandas.ipynb   "Introduction to Pandas"
 [2]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850413/raw/3a9406c73365480bc58d5e75bc80f7962243ba17/2.+Data+Wrangling+with+Pandas.ipynb "Data wrangling with Pandas"
 [3]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb "Plotting and visualization"
-[4]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850483/raw/ec9075525d272f346f0d388494507becd935279c/4.+Statistical+Data+Modeling.ipynb "Statistical data modeling"
+[4]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850483/raw/f835cf8ca4b67da702aee7b51c74b18b99564af0/4.+Statistical+Data+Modeling.ipynb "Statistical data modeling"
