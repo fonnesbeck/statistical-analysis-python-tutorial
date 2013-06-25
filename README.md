@@ -14,7 +14,7 @@ The target audience for the tutorial includes all new Python users, though we re
 
 ### Student Instructions
 
-For students familiar with Git, you may simply clone this repository to obtain all the materials (iPython notebooks and data) for the tutorial. Alternatively, you may [download a zip file containing the materials](https://github.com/fonnesbeck/statistical-analysis-python-tutorial/archive/master.zip).
+For students familiar with Git, you may simply clone this repository to obtain all the materials (iPython notebooks and data) for the tutorial. Alternatively, you may [download a zip file containing the materials](https://github.com/fonnesbeck/statistical-analysis-python-tutorial/archive/master.zip). A third option is to simply view static notebooks by clicking on the titles of each section below.
 
 ## Outline
 
