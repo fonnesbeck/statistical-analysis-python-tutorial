@@ -88,7 +88,6 @@ Otherwise, another easy way to install all the necessary packages is to use Cont
 
 [Regression Modeling Strategies](http://www.amazon.com/Regression-Modeling-Strategies-Applications-Statistics/dp/1441929185/ref=sr_1_1?s=books&ie=UTF8&qid=1372250898&sr=1-1&keywords=harrell+regression), Frank Harrell
 
-[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do), Wes McKinney
 
 [1]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850375/raw/c18cfcd9580d382cb6d14e4708aab33a0916ff3e/1.+Introduction+to+Pandas.ipynb   "Introduction to Pandas"
 [2]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850413/raw/3a9406c73365480bc58d5e75bc80f7962243ba17/2.+Data+Wrangling+with+Pandas.ipynb "Data wrangling with Pandas"
