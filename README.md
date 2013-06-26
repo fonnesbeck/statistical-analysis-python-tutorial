@@ -76,7 +76,7 @@ For students running the latest version of Mac OS X (10.8), the easiest way to o
 Otherwise, another easy way to install all the necessary packages is to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
 
 
-## Additional Reading
+## Statistical Reading List
 
 [The Ecological Detective: Confronting Models with Data](http://www.amazon.com/Ecological-Detective-Confronting-Models-Data/dp/0691034974/ref=sr_1_1?s=books&ie=UTF8&qid=1372250186&sr=1-1&keywords=ecological+detective), Ray Hilborn and Marc Mangel
 
