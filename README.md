@@ -77,6 +77,20 @@ Otherwise, another easy way to install all the necessary packages is to use Cont
 
 For those requiring extra assistance with installing packages, there will be a help desk available Monday, June 24, 7-8AM at the conference venue.
 
+## Additional Reading
+
+[The Ecological Detective: Confronting Models with Data](http://www.amazon.com/Ecological-Detective-Confronting-Models-Data/dp/0691034974/ref=sr_1_1?s=books&ie=UTF8&qid=1372250186&sr=1-1&keywords=ecological+detective), Ray Hilborn and Marc Mangel
+
+[Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Models/dp/052168689X/ref=sr_1_1?s=books&ie=UTF8&qid=1372250274&sr=1-1&keywords=gelman), Andrew Gelman and Jennifer Hill
+
+[The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/), Hastie, Tibshirani and Friedman
+
+[A First Course in Bayesian Statistical Methods](http://www.amazon.com/Bayesian-Statistical-Methods-Springer-Statistics/dp/1441928286/ref=sr_1_24?ie=UTF8&qid=1372250835&sr=8-24&keywords=bayesian), Peter Hoff
+
+[Regression Modeling Strategies](http://www.amazon.com/Regression-Modeling-Strategies-Applications-Statistics/dp/1441929185/ref=sr_1_1?s=books&ie=UTF8&qid=1372250898&sr=1-1&keywords=harrell+regression), Frank Harrell
+
+[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do), Wes McKinney
+
 [1]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850375/raw/c18cfcd9580d382cb6d14e4708aab33a0916ff3e/1.+Introduction+to+Pandas.ipynb   "Introduction to Pandas"
 [2]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850413/raw/3a9406c73365480bc58d5e75bc80f7962243ba17/2.+Data+Wrangling+with+Pandas.ipynb "Data wrangling with Pandas"
 [3]: http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850463/raw/a29d9ffb863bfab09ff6c1fc853e1d5bf69fe3e4/3.+Plotting+and+Visualization.ipynb "Plotting and visualization"
