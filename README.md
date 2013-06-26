@@ -75,7 +75,6 @@ For students running the latest version of Mac OS X (10.8), the easiest way to o
 
 Otherwise, another easy way to install all the necessary packages is to use Continuum Analytics' [Anaconda](http://docs.continuum.io/anaconda/install.html).
 
-For those requiring extra assistance with installing packages, there will be a help desk available Monday, June 24, 7-8AM at the conference venue.
 
 ## Additional Reading
 
