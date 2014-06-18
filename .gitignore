@@ -1,2 +1,5 @@
 *.pyc
 .ipynb_checkpoints/
+*_pickle
+/*.csv
+/*.png
